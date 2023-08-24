@@ -2,4 +2,4 @@
 	- Settings > Appearance > Themes > "Manage"
 - Hold "ctrl" and hover over a file in the sidebar to preview its contents
 - Use [Markdown](https://www.markdownguide.org/tools/obsidian/) to keep things organized and clear
-- 
+- Did I get the git plugin working?
