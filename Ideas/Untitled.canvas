@@ -1,0 +1,10 @@
+{
+	"nodes":[
+		{"id":"7ecb30db23bd5791","x":-660,"y":-380,"width":1040,"height":680,"type":"group","label":"CozyHorror"},
+		{"id":"c53e519ee5f2e81f","x":-560,"y":-240,"width":250,"height":60,"type":"text","text":"Protagonist"},
+		{"id":"ee01d8c00b1d6eee","x":-60,"y":-111,"width":250,"height":60,"type":"text","text":""},
+		{"id":"be6919c38ecce192","x":-60,"y":-210,"width":250,"height":60,"type":"text","text":""},
+		{"id":"a8cb65b8aafb129d","x":-560,"y":-51,"width":250,"height":60,"type":"text","text":""}
+	],
+	"edges":[]
+}
