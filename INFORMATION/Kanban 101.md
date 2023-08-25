@@ -2,4 +2,3 @@
 - New items start in "Backlog," the group decides final categories
 - Always ***KISS*** your homies
 - Move items you complete into "To Review" for group review at the next meeting.
-- Did this work
