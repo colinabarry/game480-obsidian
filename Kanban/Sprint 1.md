@@ -6,8 +6,8 @@ kanban-plugin: basic
 
 ## # Sprint tasks<br>###### Sprint goals: brainstorm ideas, prototype 3, and pick 1
 
-- [ ] Brainstorm ideas
 - [ ] Prototype chosen idea
+- [ ] Brainstorm ideas
 
 
 ## # Austin
