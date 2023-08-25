@@ -6,6 +6,7 @@ kanban-plugin: basic
 
 ## # Backlog<br>###### Items start here to be sorted there ->
 
+- [ ] Amongus
 
 
 ## # Need to have<br>###### MVP features
