@@ -1,3 +1,6 @@
+#### Preamble:
+*I have made use of internal links here, which I've found to be extremely useful for adding asides and notes without distracting from the main content. You can click on [[Colin's Vision#^preamble|these links]], which will take you to the text block it refers to, but possibly the best way is to simply hover over the link and press "ctrl," which will show a preview window of the text block so you don't have to go back and find your place again.*
+
 ## Elevator Pitch
 With obligations to a powerful nobleman and an ailing wife, you must do what needs to be done to save her before it's too late. Find, trade, and craft increasingly rare components to build a machine that will heal your wife, all while collecting resources to build structures for the nobleman's newly established town. All seems well until it is revealed that your wife had already passed right before the game began and the trauma caused you to finally crack. All of your efforts led you to the creation of an infernal mechanism which brings your beloved back, at the cost of unleashing demonic forces into her very being. What will you do now?
 
