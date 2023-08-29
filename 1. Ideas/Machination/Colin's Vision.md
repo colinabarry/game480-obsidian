@@ -45,8 +45,10 @@ The nobleman is incentivized to pay for new construction because he owns the lan
 
 Maybe you could build things that will allure certain occupations to come to settle down in order to procure certain components if that occupation is not yet present in your town. ^allure-occupations
 
+(had to separate this section for the link tag to work)
 Possible occupations include:
 - Baker
+- Farmer
 - ~~Watchmaker~~
 - Blacksmith
 - Priest/Vicar
@@ -56,6 +58,6 @@ Possible occupations include:
 	- What if you have to find a carved runic stone somewhere and have the scribe copy its unreadable writings onto a page or onto a metal part to be used in the machine?
 
 
-Not sure how deep the dialogue system should go... Writing takes time and the more response options available, the more there is to write and manage. Mr. ChatGPT does indeed exist but man, I'd be very concerned about the quality. Maybe as a starting point? Anyway, it's probably out of scope to have the dialogue seriously effect the game so idk. This is a discussion for another time. ^dialogue-musings
+Not sure how deep the dialogue system should go... Writing takes time and the more response options available, the more there is to write and manage. Mr. ChatGPT does indeed exist but man, I'd be very concerned about the quality. Maybe as a starting point? Anyway, it's probably out of scope to have the dialogue seriously effect the game outcomes so idk. This is a discussion for another time. ^dialogue-musings
 
 Current thoughts are that every night, you return home but the camera stays on the outside of the building, while showing a speech bubble for what you say to your wife. This should make sense to the player, as the game never shows the inside of any building. ^every-night
