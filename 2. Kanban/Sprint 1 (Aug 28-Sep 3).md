@@ -12,7 +12,7 @@ kanban-plugin: basic
 
 ## # Austin
 
-- [ ] Flesh out vision for "Machination" idea
+- [ ] Flesh out vision for "Machination" idea (Austin)
 
 
 ## # Cameron
@@ -21,7 +21,7 @@ kanban-plugin: basic
 
 ## # Colin
 
-- [ ] Flesh out vision for "Machination" idea
+- [ ] Flesh out vision for "Machination" idea (Colin)
 
 
 ## # To Review
