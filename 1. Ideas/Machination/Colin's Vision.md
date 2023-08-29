@@ -27,7 +27,7 @@ You look up to see the soft form of a person floating down from the sky, swathed
 
 Your rare moment of comfort does not last long, however. As you look more closely at her face, something begins to feel wrong. Her eyes are wide open and blood red. Her face is just *wrong.* Suddenly, she's standing in front of you, back arched, head towards the sky, arms outstretched, and lets out a piercing scream. It's like a keg of gunpowder was detonated where she stood: the machine, your house, and the surrounding earth are demolished, leaving behind a massive crater as debris rains down. You are flung backward but somehow survive. As you pick yourself up, she approaches you, both feet dragging the ground as she hovers a few inches above it.
 
-*Join me*, she whispers hoarsely as a small crack forms on the ground. *Let us bring your friends as well.* She looks around at the surrounding houses hungrily and reaches a hand out, beckoning. As you continue to regain your bearings, you notice your trusty axe had landed on the ground nearby after the explosion. *Yes*, she croaks, *that will do nicely.* You pick up the axe, its familiar weight seeming lighter than usual. *Join me and we will never be apart again.* You lock eyes and bring the axe up to your shoulder. She smiles wickedly and begins to make her way to the nearest residence, her back facing you. 
+*Join me*, she whispers hoarsely. *Let us bring your friends as well.* She looks around at the surrounding houses hungrily and reaches a hand out, beckoning. As you continue to regain your bearings, you notice your trusty axe had landed on the ground nearby after the explosion. *Yes*, she croaks, *that will do nicely.* You pick up the axe, its familiar weight seeming lighter than usual. *Join me and we will never be apart again.* You lock eyes and bring the axe up to your shoulder. She smiles wickedly and begins to make her way to the nearest residence, her back facing you. 
 
 You raise the axe...
 Where does it land?
@@ -41,9 +41,11 @@ Medieval-ish times on an empty piece of land not too far from but not too close 
 ## ADDENDUM A: Thinking Too Much
 What happens if you try to kill a villager? Most of them would die in one hit. You can carry the body around? Bring them to the machine and nothing happens, but if you leave them there and nobody sees you do it then something extra happens when it turns on. Maybe if you sacrifice someone, she comes back not evil? Scope monster approaches... ^kill-a-villager
 
+
 The nobleman is incentivized to pay for new construction because he owns the land and wants to earn taxes from people living on it. ^greedy-nobleman
 
-Maybe you could build things that will allure certain occupations to come to settle down in order to procure certain components if that occupation is not yet present in your town. ^allure-occupations
+
+Maybe you could build things that will allure certain occupations to come to settle down in order to procure certain components if that occupation is not yet present in your town. Examples below. ^allure-occupations
 
 (had to separate this section for the link tag to work)
 Possible occupations include:
@@ -59,5 +61,6 @@ Possible occupations include:
 
 
 Not sure how deep the dialogue system should go... Writing takes time and the more response options available, the more there is to write and manage. Mr. ChatGPT does indeed exist but man, I'd be very concerned about the quality. Maybe as a starting point? Anyway, it's probably out of scope to have the dialogue seriously effect the game outcomes so idk. This is a discussion for another time. ^dialogue-musings
+
 
 Current thoughts are that every night, you return home but the camera stays on the outside of the building, while showing a speech bubble for what you say to your wife. This should make sense to the player, as the game never shows the inside of any building. ^every-night
