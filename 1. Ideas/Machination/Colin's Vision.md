@@ -33,16 +33,30 @@ You raise the axe...
 Where does it land?
 
 ## Story Details Not Covered Above
-*I will also be using P to refer to the protagonist because I am a sheep*
+*I will also be using P to refer to the protagonist*
 
 - P used to work with the nobleman in the city, and he knows about P's wife being dead. He is a clandestine practitioner of Dark Arts, and was the one who supplied the arcane component list and combined his knowledge of magic with P's engineering skills to design the machine.
 - Canonically, P's wife suffered and died from "consumption," aka tuberculosis
+- P knew when his wife died. He was already reaching his limits and it caused him to lose touch with reality. He began 
 
 ## Gameplay
 #### Core Loop
 The main gameplay section of the game (what Cameron calls [[Cameron's Vision#Act One|Act One]]) is centered around gathering resources and constructing new buildings for the town. 
 
-### 
+```mermaid
+graph TD
+    A((explore)) --> B(find some resources)
+    A --> C(find something weird)
+    B -- infinite goal --> D(build something in town)
+    C -- finite goal --> E(work on the machine)
+    E --> F(return home)
+    E -- complete the machine --> G(act two reveal)
+    D --> A
+    F --> A
+```
+
+#### Systems 
+- 
 
 ## Setting
 Medieval-ish times on an empty piece of land not too far from but not too close to the nearest city. This city is where the nobleman lives, and where the protagonist moved from. 

@@ -21,13 +21,13 @@ kanban-plugin: basic
 
 ## # Colin
 
-- [ ] Flesh out vision for "Machination" idea (Colin)
 
 
 ## # To Review
 
 - [ ] Flesh out vision for "Machination" idea (Cameron)
 - [ ] Try Unity (Cameron)
+- [ ] Flesh out vision for "Machination" idea (Colin)
 
 
 ## # Complete
