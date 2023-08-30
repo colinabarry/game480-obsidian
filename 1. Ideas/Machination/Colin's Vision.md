@@ -35,9 +35,9 @@ Where does it land?
 ## Story Details Not Covered Above
 *I will also be using P to refer to the protagonist*
 
+- P knew when his wife died. He was already reaching his limits and it caused him to lose touch with reality. He went into a full frenzy, not even conscious of his actions, and designed the machine (more about that in the next bullet point). By the time the game starts, he is basically dead inside, still himself but only just, and spends his days going through the motions as he nears his goal of bringing his wife back.
 - P used to work with the nobleman in the city, and he knows about P's wife being dead. He is a clandestine practitioner of Dark Arts, and was the one who supplied the arcane component list and combined his knowledge of magic with P's engineering skills to design the machine.
 - Canonically, P's wife suffered and died from "consumption," aka tuberculosis
-- P knew when his wife died. He was already reaching his limits and it caused him to lose touch with reality. He began 
 
 ## Gameplay
 #### Core Loop
@@ -45,16 +45,22 @@ The main gameplay section of the game (what Cameron calls [[Cameron's Vision#Act
 
 ```mermaid
 graph TD
-    A((explore)) --> B(find some resources)
+    A((START<br/>exploration)) --> B(find some resources)
     A --> C(find something weird)
     B -- infinite goal --> D(build something in town)
     C -- finite goal --> E(work on the machine)
     E -- machine not completed --> F(return home)
-    E -- machine completed --> G{act 2}
+    E -- machine completed --> G{END<br/>act two}
     D --> A
     F --> A
-```
 
+classDef green fill:#9f6,stroke:#333,stroke-width:2px,color:#000
+classDef orange fill:#f96,stroke:#333,stroke-width:2px,color:#000
+
+class A green
+class G orange
+```
+*Fig. 1: High-level gameplay loop of Act One*
 #### Systems 
 *Crucial systems and/or their sub-systems are bold+italic*
 
