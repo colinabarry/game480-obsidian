@@ -17,7 +17,6 @@ kanban-plugin: basic
 
 ## # Cameron
 
-- [ ] Try Unity (Cameron)
 
 
 ## # Colin
@@ -28,6 +27,7 @@ kanban-plugin: basic
 ## # To Review
 
 - [ ] Flesh out vision for "Machination" idea (Cameron)
+- [ ] Try Unity (Cameron)
 
 
 ## # Complete
