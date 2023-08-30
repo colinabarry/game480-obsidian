@@ -56,7 +56,10 @@ graph TD
 ```
 
 #### Systems 
-- 
+- Woodsman
+    - tree felling
+    - log splitting
+    - 
 
 ## Setting
 Medieval-ish times on an empty piece of land not too far from but not too close to the nearest city. This city is where the nobleman lives, and where the protagonist moved from. 
