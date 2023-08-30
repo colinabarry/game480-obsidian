@@ -3,6 +3,7 @@
 - Hold "ctrl" and hover over a file in the sidebar *or an in-text link* to preview its contents
 - Use [Markdown](https://www.markdownguide.org/tools/obsidian/) to keep things organized and clear
 - Use [[Obsidian 101#^internal-links|internal links]] to connect to another part of the same note [[Kanban 101|or other notes]]. Add a space, then `^human-readable-tag` at the end of a text block to easily mark a link destination, like this -> ^internal-links
-	- Alternately, add link brackets like normal `[[`, which will prompt to select a specific note. Then, place a `^` after the note name, which will prompt to select a text block. When selected, Obsidian will automatically add a link tag for you, [[Obsidian 101#^f75145|like this]]. 
-	- Custom link text can be added by placing `|` (pipe) immediately before the closing link brackets `]]`.  ^f75145
+	- Alternately, add link brackets like normal `[[`, which will prompt to select a specific note. Then, place a `^` after the note name, which will prompt to select a text block. When selected, Obsidian will automatically add a link tag for you, [[Obsidian 101#^f75145|like this]]
+	- Custom link text can be added by placing `|` (pipe) immediately before the closing link brackets `]]`  ^f75145
+- [Mermaid](https://jojozhuang.github.io/tutorial/mermaid-cheat-sheet/) is extremely awesome 
 - [Obsidian Beginner's Guide](https://obsidian.rocks/getting-started-with-obsidian-a-beginners-guide/) 
