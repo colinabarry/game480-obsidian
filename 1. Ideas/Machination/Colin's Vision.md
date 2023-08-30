@@ -4,6 +4,7 @@
 ## Elevator Pitch
 With obligations to a powerful nobleman and an ailing wife, you must do what needs to be done to save her before it's too late. Find, trade, and craft increasingly rare components to build a machine that will heal your wife, all while collecting resources to build structures for the nobleman's newly established town. All seems well until it is revealed that your wife had already passed right before the game began and the trauma caused you to finally crack. All of your efforts led you to the creation of an infernal mechanism which brings your beloved back, at the cost of unleashing demonic forces into her very being. What will you do now?
 
+
 ## The Player's Experience
 *This represents what I believe the ideal player experience to be. Of course, different players will have different experiences, but this is the "goal." I have written it entirely in the second person, blurring the line between player and protagonist to simulate the player's immersion in their role, while only showing what the **PLAYER** knows, not what the **PROTAGONIST** knows.*
 
@@ -32,6 +33,7 @@ Your rare moment of comfort does not last long, however. As you look more closel
 You raise the axe...
 Where does it land?
 
+
 ## Story Details Not Covered Above
 *I will also be using P to refer to the protagonist*
 
@@ -39,8 +41,9 @@ Where does it land?
 - P used to work with the nobleman in the city, and he knows about P's wife being dead. He is a clandestine practitioner of Dark Arts, and was the one who supplied the arcane component list and combined his knowledge of magic with P's engineering skills to design the machine.
 - Canonically, P's wife suffered and died from "consumption," aka tuberculosis
 
+
 ## Gameplay
-#### Core Loop
+### Core Loop
 The main gameplay section of the game (what Cameron calls [[Cameron's Vision#Act One|Act One]]) is centered around gathering resources and constructing new buildings for the town, while working towards completing the machine. The game will mostly only progress when you make progress on the machine (although the passing of days will also keep things moving), and town-building is unrestricted. Time-of-day should be a thing, so players can't just go crazy on the town building and never ever get to the next day.
 
 ```mermaid
@@ -61,7 +64,8 @@ class A green
 class G orange
 ```
 *Fig. 1: High-level gameplay loop of Act One*
-#### Systems 
+
+### Systems 
 *Crucial systems and/or their sub-systems are bold+italic*
 
 - ***Resource Collection***
@@ -90,11 +94,14 @@ class G orange
 	- free to do what you want all day
 - Combat? (see "enemies?" link above)
 
+
 ## Setting
 Medieval-ish times on an empty piece of land not too far from but not too close to the nearest city. This city is where the nobleman lives, and where the protagonist moved from. 
 
+
 ## Aesthetics
 8x8-based pixel art, with slightly desaturated colors and rich blacks. Red is only ever used for blood.
+
 
 ## ADDENDUM A: Thinking Too Much
 What happens if you try to kill a villager? Most of them would die in one hit. You can carry the body around? Bring them to the machine and nothing happens, but if you leave them there and nobody sees you do it then something extra happens when it turns on. Maybe if you sacrifice someone, she comes back not evil? Scope monster approaches... ^kill-a-villager
