@@ -41,7 +41,7 @@ Where does it land?
 
 ## Gameplay
 #### Core Loop
-The main gameplay section of the game (what Cameron calls [[Cameron's Vision#Act One|Act One]]) is centered around gathering resources and constructing new buildings for the town. 
+The main gameplay section of the game (what Cameron calls [[Cameron's Vision#Act One|Act One]]) is centered around gathering resources and constructing new buildings for the town, while working towards completing the machine. The game will mostly only progress when you make progress on the machine (although the passing of days will also keep things moving), and town-building is unrestricted. Time-of-day should be a thing, so players can't just go crazy on the town building and never ever get to the next day.
 
 ```mermaid
 graph TD
@@ -49,17 +49,40 @@ graph TD
     A --> C(find something weird)
     B -- infinite goal --> D(build something in town)
     C -- finite goal --> E(work on the machine)
-    E --> F(return home)
-    E -- complete the machine --> G(act two reveal)
+    E -- machine not completed --> F(return home)
+    E -- machine completed --> G{act 2}
     D --> A
     F --> A
 ```
 
 #### Systems 
-- Woodsman
-    - tree felling
-    - log splitting
-    - 
+*Crucial systems and/or their sub-systems are bold+italic*
+
+- ***Resource Collection***
+	- ***tree felling***
+	- ***mining***
+- ***Crafting***
+	- ***machine-specific crafting***
+	- basic item crafting
+	- log splitting
+	- lumber milling
+- ***Exploration***
+	- ***random generation***
+		- trees
+		- rocks
+		- ores
+		- machine components (only generate at certain times/order)
+	- the mine?
+		- more/better rocks and ores?
+		- [[Colin's Vision#^enemies|enemies]]?
+- ***Narrative***
+	- ***talk to villagers***
+	- simple quests
+- ***Day/Night cycle***
+	- player has to go to bed at night
+		- no punishment like SV, maybe a cutscene just cuts you off?
+	- free to do what you want all day
+- Combat? (see "enemies?" link above)
 
 ## Setting
 Medieval-ish times on an empty piece of land not too far from but not too close to the nearest city. This city is where the nobleman lives, and where the protagonist moved from. 
@@ -93,3 +116,6 @@ Not sure how deep the dialogue system should go... Writing takes time and the mo
 
 
 Current thoughts are that every night, you return home but the camera stays on the outside of the building, while showing a speech bubble for what you say to your wife. This should make sense to the player, as the game never shows the inside of any building. ^every-night
+
+
+Enemies in the mine... hmmm, something smells like a ConcernedApe in here! I'm not too sure about having enemies at all. It would have to be either in a specific area, like how SV does it (so as not to detract from chill feelings) or be done in a specific and not-too-threatening way, like the opposite of how Factorio does it. Austin's idea of the "Outside" does fit with the former, as long as they're considered secluded areas and enemies can't freely enter the town. Having enemies does provide a new source for components/materials, so that is something to consider. ^enemies
