@@ -16,7 +16,7 @@ As the town grows, you continue to meet new people and interact with those who h
 
 As the machine nears completion, you start to notice more unusual things. The components you need are increasingly strange, even sinister. You realize that you've still never seen your wife, [[Colin's Vision#^every-night|only the outside of the house]] and what you've said to her. Still, you try not to think too hard about it and focus on the greater goal. The thought lingers in the back of your mind - *what is actually going on here?*
 
-Finally, you get your hands on the last component needed for the machine. It is almost time. You go home for the night as usual, but this time you finally get to see the inside. There is nobody there, nobody at all. You begin talking to your wife as if everything is normal anyway, and that lingering thought overwhelms you. *What is going on??*
+Finally, you get your hands on the last component needed for the machine. It is almost time. You go home for the night as usual, but this time you finally get to see the inside. There is nobody there, nobody at all. The protagonist begins talking to your wife as if everything is normal anyway, and that lingering thought overwhelms you. *What is going on??*
 
 The next day arrives and it is time to power on the machine. You hesitate, now apprehensive as to its purpose, but you proceed to turn it on anyway. Nothing happens. A few seconds pass. Then, a thunderous **BOOM** shatters the stillness in an instant, and the ground begins to rumble. The machine's complex mechanisms churn and shudder, and the sky grows dark. Cracks appear in the dirt, centered around the machine as it almost seems to hover over what is quickly becoming a sinkhole. An eerie red glow spills out from the earth as the machine rises into the air, over your head. It spins with ever-increasing vigor before a massive pillar of blood engulfs the machine from below and you cover your eyes with your arms, barely able to move from the spectacle of it all.
 
@@ -89,7 +89,7 @@ class G orange
 	- ***talk to villagers***
 	- simple quests
 - ***Day/Night cycle***
-	- player has to go to bed at night
+	- ***player has to go to bed at night***
 		- no punishment like SV, maybe a cutscene just cuts you off?
 	- free to do what you want all day
 - Combat? (see "enemies?" link above)
@@ -132,3 +132,7 @@ Current thoughts are that every night, you return home but the camera stays on t
 
 
 Enemies in the mine... hmmm, something smells like a ConcernedApe in here! I'm not too sure about having enemies at all. It would have to be either in a specific area, like how SV does it (so as not to detract from chill feelings) or be done in a specific and not-too-threatening way, like the opposite of how Factorio does it. Austin's idea of the "Outside" does fit with the former, as long as they're considered secluded areas and enemies can't freely enter the town. Having enemies does provide a new source for components/materials, so that is something to consider. ^enemies
+
+
+Games are expected to have a fail state... we haven't really considered that. Optional fighting would help keep the game more chill, but then the fail state is only exposed to those who choose to fight. Forced fighting introduces more stress, but maybe that's good? Helps to propel the experience forward. Gotta think more about fail state... ^fail-state
+
