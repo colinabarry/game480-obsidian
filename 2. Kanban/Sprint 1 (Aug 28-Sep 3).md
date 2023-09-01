@@ -21,10 +21,6 @@ kanban-plugin: basic
 
 ## # Colin
 
-- [ ] Core Gameplay Mechanics
-- [ ] Game Description
-- [ ] Story
-- [ ] Visual Style
 - [ ] Story
 
 
@@ -36,6 +32,9 @@ kanban-plugin: basic
 - [ ] Core Gameplay Mechanics
 - [ ] Visual Style
 - [ ] Ideal Player Profile
+- [ ] Core Gameplay Mechanics
+- [ ] Game Description
+- [ ] Visual Style
 
 
 ## # Complete
