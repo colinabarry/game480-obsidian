@@ -6,33 +6,43 @@ kanban-plugin: basic
 
 ## # Sprint tasks<br>###### Sprint goals: finalize the game idea and complete the design document
 
-- [ ] Finalize idea as a group
 - [ ] Create game design document for finalized idea
+- [ ] Ideal Player Profile
+- [ ] Target Audience
 
 
 ## # Austin
 
-- [ ] Flesh out vision for "Machination" idea (Austin)
+- [ ] Game Concept
+- [ ] Core Gameplay
 
 
 ## # Cameron
 
+- [ ] Characters
+- [ ] Story
 
 
 ## # Colin
 
+- [ ] Core Gameplay Mechanics
+- [ ] Game Description
+- [ ] Visual Style
 
 
 ## # To Review
 
-- [ ] Flesh out vision for "Machination" idea (Cameron)
-- [ ] Try Unity (Cameron)
-- [ ] Flesh out vision for "Machination" idea (Colin)
+- [ ] Game Title (ez)
 
 
 ## # Complete
 
 **Complete**
+- [x] Flesh out vision for "Machination" idea (Cameron)
+- [x] Try Unity (Cameron)
+- [x] Flesh out vision for "Machination" idea (Colin)
+- [x] Flesh out vision for "Machination" idea (Austin)
+- [x] Finalize idea as a group
 
 
 
