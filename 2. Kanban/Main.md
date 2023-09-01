@@ -34,7 +34,7 @@ kanban-plugin: basic
 
 
 
-## # "Given"<br>###### These are just expected to be there
+## # "Given"<br>###### These are just expected to be there for any game that exists, no matter the gameplay
 
 - [ ] Main menu
 - [ ] Pause menu
