@@ -25,3 +25,13 @@
 <p>The Outside is where the player gathers resources. Resources spawn in random areas for the player to collect (wood, stone, food, silver, etc). Enemies spawn in the zones and patrol around. Enemies who are near the player will attack them.</p>
 <h2>The Village</h2>
 <p>The village is the player's initial concern, as it grows in population it will generate more money but also demand more food and other resources. The player can build houses to get more people to move it. Each villager consumes food on a daily basis. The more villagers move in, the more food is required but they generate more wood and silver to make the village expand greater.</p>
+
+
+
+
+
+
+
+
+URL To Google Doc:
+https://docs.google.com/document/d/1u5EEHxnkNTVEcMWQmTUkcR7_uaOQq-XmP774rLJKAAk/edit?usp=sharing
