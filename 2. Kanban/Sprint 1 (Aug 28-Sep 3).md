@@ -7,7 +7,6 @@ kanban-plugin: basic
 ## # Sprint tasks<br>###### Sprint goals: finalize the game idea and complete the design document
 
 - [ ] Create game design document for finalized idea
-- [ ] Ideal Player Profile
 - [ ] Target Audience
 
 
@@ -20,19 +19,20 @@ kanban-plugin: basic
 ## # Cameron
 
 - [ ] Characters
-- [ ] Story
 
 
 ## # Colin
 
-- [ ] Core Gameplay Mechanics
-- [ ] Game Description
-- [ ] Visual Style
+- [ ] Story
 
 
 ## # To Review
 
 - [ ] Game Title (ez)
+- [ ] Game Description
+- [ ] Core Gameplay Mechanics
+- [ ] Visual Style
+- [ ] Ideal Player Profile
 
 
 ## # Complete
