@@ -4,7 +4,7 @@ kanban-plugin: basic
 
 ---
 
-## # Sprint tasks<br>###### Sprint goals:Get more familiar with Unity
+## # Sprint tasks<br>###### Sprint goals: Get more familiar with Unity
 
 - [ ] Create Tile Map
 - [ ] Basic Level w/ Collisions
