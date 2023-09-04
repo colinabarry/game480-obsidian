@@ -1,6 +1,13 @@
 # Elevator Pitch (Needs revision)
 With obligations to a powerful nobleman and an ailing wife, you must do what needs to be done to save her before it's too late. Find, trade, and craft increasingly rare components to build a machine that will heal your wife, all while collecting resources to build structures for the nobleman's newly established town. All seems well until it is revealed that your wife had already passed right before the game began and the trauma caused you to finally crack. All of your efforts led you to the creation of an infernal mechanism which brings your beloved back, at the cost of unleashing demonic forces into her very being. What will you do now?
 
+# Setting
+End of the 1600s in colonial America on an empty piece of land not too far from but not too close to the nearest city. This city is where the nobleman lives, and where the protagonist moved from. 
+
+
+# Aesthetics
+8x8-based pixel art, with slightly desaturated colors and rich blacks. Red is only ever used for blood.
+
 
 # Story
 ## Lore
@@ -89,9 +96,4 @@ class G orange
 - Resource availability
 
 
-# Setting
-Medieval-ish times on an empty piece of land not too far from but not too close to the nearest city. This city is where the nobleman lives, and where the protagonist moved from. 
 
-
-# Aesthetics
-8x8-based pixel art, with slightly desaturated colors and rich blacks. Red is only ever used for blood.
