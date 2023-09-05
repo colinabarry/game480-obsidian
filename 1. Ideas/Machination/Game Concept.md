@@ -10,9 +10,6 @@ End of the 1600s in colonial America on an empty piece of land not too far from 
 
 
 # Story
-## Lore
-*Story elements which took place before the game began*
-
 ## Act 1
 *A mostly tranquil experience*
 You are a renowned medieval woodsman and artificer from a large city who suddenly moved the countryside. Your dearly beloved wife is bedridden, her condition worse still than when you moved in order to help her recover outside of the bustle and noise. You've made a deal with a local nobleman to construct his new settlement: for each new residence or business built, the nobleman [[Colin's Vision#^greedy-nobleman|will pay you]] a specified amount. 
@@ -43,6 +40,10 @@ Your rare moment of comfort does not last long, however. As you look more closel
 
 You raise the axe...
 Where does it land?
+
+## Lore
+*Story elements which took place before the game began*
+
 
 
 # Gameplay
