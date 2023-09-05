@@ -6,7 +6,7 @@ End of the 1600s in colonial America on an empty piece of land not too far from 
 
 
 # Aesthetics
-8x8-based pixel art, with slightly desaturated colors and rich blacks. Red is only ever used for blood.
+16x16-grid-based top-down oblique pixel art, with slightly desaturated colors and rich blacks. The goal is to feel comfortable but slightly dreary before switching to a more stark look for Act 3. Red is only ever used for blood.
 
 
 # Story
@@ -96,4 +96,20 @@ class G orange
 - Resource availability
 
 
+# Characters
+## Protagonist
+###### Engineer, Craftsman
+
+
+
+| Name          | Occupation          | Personality                                                       | Appearance                                                       |     | Workplace        |
+| ------------- | ------------------- | ----------------------------------------------------------------- | ---------------------------------------------------------------- | --- | ---------------- |
+| Protagonist   | Engineer, Craftsman | Sullen, but gentle.                                               | 47 years old.Broad-shouldered, short black hair.                 |  ![[00220-3776176853.png]]   | Workshop         |
+| Wife          |                     | Loving, resilient.                                                | 45 years old.Very long black hair.                               |     | N/AStays at home |
+| Father Elijah | Vicar               | Untrusting, experienced, well-respected.                          | 62 years old.Thin, wrinkled, short gray hair.                    |     | Church           |
+| Abel          | Priest in training  | Trusting, eager to learn, naive, compassionate.                   | 21 years old.Young, friendly, boyish, short brown hair.          |     | Church           |
+| Abigail       | Herbalist           | Sweet, kind, helpful.                                             | 34 years old.Heavier-set, shoulder-length red hair.              |     | Apothecary       |
+| Levi          | Shepherd            | Reserved, but strongly moral. Will help people if they need help. | 53 years old.Gentle giant, formidable, long, graying black hair. |     | Stables          |
+| Esther        | Tailor              | Loud, excited, opens up easily. Has a sad past.                   | 26 years old.Average build, long blonde hair.                    |     | Tailor’s         |
+| Benjamin      | Blacksmith          | Gruff.                                                            | 38 years old.Bearded, muscular.                                  |     | Smithy           |
 
