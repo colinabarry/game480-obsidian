@@ -10,22 +10,22 @@ kanban-plugin: basic
 
 ## # Need to have<br>###### MVP features
 
-- [ ] Resource gathering
-- [ ] Dialogue
-- [ ] Day/night cycle
-- [ ] Player movement
-- [ ] Structure building
-- [ ] Quests
+- [ ] [[Resource gathering]]
+- [ ] [[Dialogue]]
+- [ ] [[Player movement]]
+- [ ] [[Structure building]]
+- [ ] [[Quests]]
 - [ ] Basic resource crafting
 
 
 ## # Nice to have<br>###### Time permitting
 
 - [ ] Intermediate resource crafting
-- [ ] Random generation (resource placement)
+- [ ] Random generation
 - [ ] Villager movement
 - [ ] Custom sfx
 - [ ] Custom art
+- [ ] [[Day night cycle]]
 
 
 ## # Pipe dreams<br>###### Not given up on, but...
@@ -50,6 +50,6 @@ kanban-plugin: basic
 
 %% kanban:settings
 ```
-{"kanban-plugin":"basic","new-note-folder":"1. Ideas/Machination/Features","hide-date-in-title":true,"hide-tags-in-title":true}
+{"kanban-plugin":"basic","new-note-folder":"1. Ideas/Machination/Features","hide-date-in-title":true,"hide-tags-in-title":true,"new-note-template":"_ii. TEMPLATES/Kanban Task Template.md"}
 ```
 %%
