@@ -8,18 +8,18 @@ kanban-plugin: basic
 
 
 
-## # Need to have<br>###### MVP features
+## # Need to have<br>###### MVP features: the game does not work with any single one of these missing
 
 - [ ] [[Resource gathering]]
 - [ ] [[Dialogue]]
 - [ ] [[Player movement]]
 - [ ] [[Structure building]]
 - [ ] [[Quests]]
+
+
+## # Nice to have<br>###### Time permitting: the game is better if it has these
+
 - [ ] Basic resource crafting
-
-
-## # Nice to have<br>###### Time permitting
-
 - [ ] Intermediate resource crafting
 - [ ] Random generation
 - [ ] Villager movement
