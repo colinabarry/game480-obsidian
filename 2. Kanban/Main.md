@@ -6,32 +6,33 @@ kanban-plugin: basic
 
 ## # Backlog<br>###### Items start here to be sorted there ->
 
-- [ ] Resource gathering
-- [ ] Basic resource crafting
-- [ ] Intermediate resource crafting
-- [ ] Advanced resource crafting
-- [ ] Quests
-- [ ] Dialogue
-- [ ] Random generation
-- [ ] Day/night cycle
-- [ ] Player movement
-- [ ] Villager movement
-- [ ] User-defined keybinds
-- [ ] Custom art
-- [ ] Custom music
-- [ ] Custom sfx
 
 
 ## # Need to have<br>###### MVP features
 
+- [ ] Resource gathering
+- [ ] Dialogue
+- [ ] Day/night cycle
+- [ ] Player movement
+- [ ] Structure building
+- [ ] Quests
+- [ ] Basic resource crafting
 
 
 ## # Nice to have<br>###### Time permitting
 
+- [ ] Intermediate resource crafting
+- [ ] Random generation (resource placement)
+- [ ] Villager movement
+- [ ] Custom sfx
+- [ ] Custom art
 
 
 ## # Pipe dreams<br>###### Not given up on, but...
 
+- [ ] Advanced resource crafting
+- [ ] User-defined keybinds
+- [ ] Custom music
 
 
 ## # "Given"<br>###### These are just expected to be there for any game that exists, no matter the gameplay
@@ -49,6 +50,6 @@ kanban-plugin: basic
 
 %% kanban:settings
 ```
-{"kanban-plugin":"basic"}
+{"kanban-plugin":"basic","new-note-folder":"1. Ideas/Machination/Features","hide-date-in-title":true,"hide-tags-in-title":true}
 ```
 %%
