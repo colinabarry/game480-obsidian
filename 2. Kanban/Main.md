@@ -21,7 +21,7 @@ kanban-plugin: basic
 
 - [ ] Basic resource crafting
 - [ ] Intermediate resource crafting
-- [ ] Random generation
+- [ ] [[Random generation]]
 - [ ] Villager movement
 - [ ] Custom sfx
 - [ ] Custom art
