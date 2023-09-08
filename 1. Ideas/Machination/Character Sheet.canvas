@@ -1,0 +1,24 @@
+{
+	"nodes":[
+		{"id":"5277f2ab13dfa580","type":"group","x":-680,"y":-740,"width":1240,"height":440,"label":"Abigail"},
+		{"id":"e7514460c3ca6eee","type":"group","x":-280,"y":320,"width":840,"height":440,"label":"Benjamin"},
+		{"id":"85469b9e7b62fc18","type":"group","x":-280,"y":-220,"width":840,"height":440,"label":"Levi"},
+		{"id":"d2a7c248c57e91da","type":"group","x":-280,"y":-1260,"width":840,"height":440,"label":"Abel"},
+		{"id":"a2a6dcf86546ee18","type":"group","x":-280,"y":-1780,"width":840,"height":440,"label":"Father Elijah"},
+		{"id":"e7c31efdacf516c0","type":"file","file":"_iii. MEDIA/Father Elijah.png","x":-260,"y":-1760,"width":400,"height":400},
+		{"id":"dac43ab91c6d850c","type":"file","file":"_iii. MEDIA/Abigail 2.png","x":-660,"y":-720,"width":400,"height":400},
+		{"id":"39e5229159b44436","type":"file","file":"_iii. MEDIA/Abel.png","x":-260,"y":-1240,"width":400,"height":400},
+		{"id":"c7371081ce7ea697","type":"text","text":"**Occupation**\nPriest in training\n\n**Personality**\nTrusting, eager, naïve, compassionate\n\n**Workplace**\nChurch\n\n**Age**\n21 years old\n\n**Appearance**\nYoung, friendly, boyish, short brown hair","x":140,"y":-1240,"width":400,"height":400},
+		{"id":"59c4f3659ce9d2f2","type":"text","text":"**Occupation**\nVicar\n\n**Personality**\nUntrusting, experienced, well-respected.\n\n**Workplace**\nChurch\n\n**Age**\n62 years old\n\n**Appearance**\nThin, wrinkled, short gray hair.","x":140,"y":-1760,"width":400,"height":400},
+		{"id":"4842a07e0288b496","type":"text","text":"**Occupation**\n\n**Personality**\n\n**Workplace**\n\n**Age**\n\n**Appearance**","x":140,"y":-2280,"width":400,"height":400},
+		{"id":"15df49c4d494f47e","type":"text","text":"**Occupation**\n\n**Personality**\n\n**Workplace**\n\n**Age**\n\n**Appearance**","x":140,"y":-2800,"width":400,"height":400},
+		{"id":"a33f9b3484dd0c9f","type":"file","file":"_iii. MEDIA/Levi.png","x":-260,"y":-200,"width":400,"height":400},
+		{"id":"57637679e8ac41a4","type":"file","file":"_iii. MEDIA/Abigail.png","x":-260,"y":-720,"width":400,"height":400},
+		{"id":"e78b28561751e47f","type":"text","text":"**Occupation**\nHerbalist\n\n**Personality**\nSweet, kind, helpful\n\n**Workplace**\nApothecary\n\n**Age**\n34 years old\n\n**Appearance**\nHeavier-set, shoulder-length red hair","x":140,"y":-720,"width":400,"height":400},
+		{"id":"b2ff18d4e93fee8f","type":"file","file":"_iii. MEDIA/Benjamin.png","x":-260,"y":340,"width":400,"height":400},
+		{"id":"321c2f826ab632ac","type":"text","text":"**Occupation**\nBlacksmith\n\n**Personality**\nGruff\n\n**Workplace**\nSmithy\n\n**Age**\n38 years old\n\n**Appearance**\nBearded, muscular","x":140,"y":340,"width":400,"height":400},
+		{"id":"a7e30e96adcb43d3","type":"text","text":"**Occupation**\n\n**Personality**\n\n**Workplace**\n\n**Age**\n\n**Appearance**","x":140,"y":860,"width":400,"height":400},
+		{"id":"a607ead21e61c0ec","type":"text","text":"**Occupation**\nShepherd\n\n**Personality**\nReserved, but helps quickly if needed.\n\n**Workplace**\nStables\n\n**Age**\n53 years old\n\n**Appearance**\nFormidable gentle giant, long graying hair","x":140,"y":-200,"width":400,"height":400}
+	],
+	"edges":[]
+}

@@ -16,39 +16,34 @@ kanban-plugin: basic
 
 ## # Cameron
 
-- [ ] Characters
 
 
 ## # Colin
 
-- [ ] Story
 
 
 ## # To Review
 
-- [ ] Game Title (ez)
-- [ ] Characters
-- [ ] Game Description
-- [ ] Core Gameplay Mechanics
-- [ ] Visual Style
-- [ ] Ideal Player Profile
-- [ ] Core Gameplay Mechanics
-- [ ] Game Description
-- [ ] Visual Style
+- [ ] Story
 
 
 ## # Complete
 
 **Complete**
-- [x] Flesh out vision for "Machination" idea (Cameron)
-- [x] Try Unity (Cameron)
-- [x] Flesh out vision for "Machination" idea (Colin)
-- [x] Flesh out vision for "Machination" idea (Austin)
-- [x] Game Concept
-- [x] Ideal Player Profile
+- [x] Characters
 - [x] Core Gameplay
-- [x] Target Audience
+- [x] Core Gameplay Mechanics
 - [x] Finalize idea as a group
+- [x] Flesh out vision for "Machination" idea (Austin)
+- [x] Flesh out vision for "Machination" idea (Cameron)
+- [x] Flesh out vision for "Machination" idea (Colin)
+- [x] Game Concept
+- [x] Game Description
+- [x] Game Title (ez)
+- [x] Ideal Player Profile
+- [x] Target Audience
+- [x] Try Unity (Cameron)
+- [x] Visual Style
 
 
 
