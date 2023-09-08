@@ -6,14 +6,11 @@ kanban-plugin: basic
 
 ## # Sprint tasks<br>###### Sprint goals: Get more familiar with Unity
 
-- [ ] Create Tile Map
-- [ ] Basic Level w/ Collisions
-- [ ] Level Transitions
 
 
 ## # Austin
 
-- [ ] Make a micro prototype of a single feature (Austin)
+- [ ] Level Transitions
 
 
 ## # Cameron
@@ -28,6 +25,8 @@ kanban-plugin: basic
 
 ## # To Review
 
+- [ ] Create Tile Map
+- [ ] Basic Level w/ Collisions
 
 
 ## # Complete
