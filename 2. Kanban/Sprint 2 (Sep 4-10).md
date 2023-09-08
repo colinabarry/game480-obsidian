@@ -11,6 +11,8 @@ kanban-plugin: basic
 ## # Austin
 
 - [ ] Level Transitions
+- [ ] Tilemap
+- [ ] Player Collisions
 
 
 ## # Cameron
