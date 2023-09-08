@@ -1,0 +1,22 @@
+## Sub-tasks
+- [ ] Dialogue portraits
+    - [ ] Single expression
+    - [ ] Varied expressions
+- [ ] Character animations
+- [ ] Buildings
+    - [ ] P's house
+    - [ ] Smithy
+    - [ ] Tailor's
+    - [ ] Apothecary
+    - [ ] Stables
+    - [ ] 
+- [ ] Terrain 
+- [ ] Trees
+    - [ ] coniferous 
+    - [ ] deciduous
+    - [ ] dead
+- [ ] Rocks
+    - [ ] big rocks
+    - [ ] little rocks
+    - [ ] ore-containing rocks
+- [ ] 

@@ -1,0 +1,21 @@
+## Sub-tasks
+- [ ] Footsteps
+- [ ] Tools
+    - [ ] swing tool
+    - [ ] hit wood
+    - [ ] hit stone
+    - [ ] hit metal
+- [ ] Dialogue
+- [ ] Pick up item
+- [ ] GUI
+    - [ ] open menu
+    - [ ] close menu
+    - [ ] hover button
+    - [ ] click button
+    - [ ] exit
+    - [ ] volume change
+- [ ] Building
+    - [ ] place building location
+    - [ ] add component
+    - [ ] finish building
+- [ ] Enter location (village, cave, etc)
