@@ -21,7 +21,6 @@ kanban-plugin: basic
 
 - [ ] Basic resource crafting
 - [ ] Intermediate resource crafting
-- [ ] [[Random generation]]
 - [ ] [[Villager movement]]
 - [ ] [[Custom sfx]]
 - [ ] [[Custom art]]
@@ -33,6 +32,7 @@ kanban-plugin: basic
 - [ ] Advanced resource crafting
 - [ ] User-defined keybinds
 - [ ] [[Custom music]]
+- [ ] [[Random generation]]
 
 
 ## # "Given"<br>###### These are just expected to be there for any game that exists, no matter the gameplay
