@@ -18,7 +18,8 @@
 		{"id":"b2ff18d4e93fee8f","type":"file","file":"_iii. MEDIA/Benjamin.png","x":-260,"y":340,"width":400,"height":400},
 		{"id":"321c2f826ab632ac","type":"text","text":"**Occupation**\nBlacksmith\n\n**Personality**\nGruff\n\n**Workplace**\nSmithy\n\n**Age**\n38 years old\n\n**Appearance**\nBearded, muscular","x":140,"y":340,"width":400,"height":400},
 		{"id":"a7e30e96adcb43d3","type":"text","text":"**Occupation**\n\n**Personality**\n\n**Workplace**\n\n**Age**\n\n**Appearance**","x":140,"y":860,"width":400,"height":400},
-		{"id":"a607ead21e61c0ec","type":"text","text":"**Occupation**\nShepherd\n\n**Personality**\nReserved, but helps quickly if needed.\n\n**Workplace**\nStables\n\n**Age**\n53 years old\n\n**Appearance**\nFormidable gentle giant, long graying hair","x":140,"y":-200,"width":400,"height":400}
+		{"id":"a607ead21e61c0ec","type":"text","text":"**Occupation**\nShepherd\n\n**Personality**\nReserved, but helps quickly if needed.\n\n**Workplace**\nStables\n\n**Age**\n53 years old\n\n**Appearance**\nFormidable gentle giant, long graying hair","x":140,"y":-200,"width":400,"height":400},
+		{"id":"987c853749004881","type":"file","file":"_iii. MEDIA/Father Elijah - dreamscape8.png","x":-660,"y":-1760,"width":400,"height":400}
 	],
 	"edges":[]
 }
