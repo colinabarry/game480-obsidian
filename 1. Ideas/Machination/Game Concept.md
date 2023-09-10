@@ -1,4 +1,4 @@
-# Elevator Pitch (Needs revision)
+# Elevator Pitch
 With obligations to a powerful nobleman and an ailing wife, you must do what needs to be done to save her before it's too late. Find, trade, and craft increasingly rare components to build a machine that will heal your wife, all while collecting resources to build structures for the nobleman's newly established town. All seems well until it is revealed that your wife had already passed right before the game began and the trauma caused you to finally crack. All of your efforts led you to the creation of an infernal mechanism which brings your beloved back, at the cost of unleashing demonic forces into her very being. What will you do now?
 
 # Setting
@@ -10,9 +10,6 @@ End of the 1600s in colonial America on an empty piece of land not too far from 
 
 
 # Story
-## Lore
-*Story elements which took place before the game began*
-
 ## Act 1
 *A mostly tranquil experience*
 You are a renowned medieval woodsman and artificer from a large city who suddenly moved the countryside. Your dearly beloved wife is bedridden, her condition worse still than when you moved in order to help her recover outside of the bustle and noise. You've made a deal with a local nobleman to construct his new settlement: for each new residence or business built, the nobleman [[Colin's Vision#^greedy-nobleman|will pay you]] a specified amount. 
@@ -44,10 +41,14 @@ Your rare moment of comfort does not last long, however. As you look more closel
 You raise the axe...
 Where does it land?
 
+## Lore
+*Story elements which took place before the game began*
+
+
 
 # Gameplay
 ## Core Loop
-The main gameplay section of the game (what Cameron calls [[Cameron's Vision#Act One|Act One]]) is centered around gathering resources and constructing new buildings for the town, while working towards completing the machine. The game will mostly only progress when you make progress on the machine (although the passing of days will also keep things moving), and town-building is unrestricted. Time-of-day should be a thing, so players can't just go crazy on the town building and never ever get to the next day.
+The main gameplay section of the game ([[Game Concept#Act 1|Act 1]]) is centered around gathering resources and constructing new buildings for the town, while working towards completing the machine. The game will mostly only progress when you make progress on the machine (although the passing of days will also keep things moving), and town-building is unrestricted. Time-of-day should be a thing, so players can't just go crazy on the town building and never ever get to the next day.
 
 ```mermaid
 graph TD

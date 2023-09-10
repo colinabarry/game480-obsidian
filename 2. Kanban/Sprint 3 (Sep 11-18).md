@@ -6,29 +6,25 @@ kanban-plugin: basic
 
 ## # Sprint tasks<br>###### Sprint goals: Get more familiar with Unity
 
+- [ ] 2D Sprites of Houses/Church/Sheep-pen/Garden/Tailor/Blacksmith
 
 
 ## # Austin
 
-- [ ] Level Transitions
-- [ ] Tilemap
-- [ ] Player Collisions
+- [ ] Create Village Tilemap
 
 
 ## # Cameron
 
-- [ ] Make a micro prototype of a single feature (Cameron)
+- [ ] Create Wood Resources
 
 
 ## # Colin
 
-- [ ] Make a micro prototype of a single feature (Colin)
 
 
 ## # To Review
 
-- [ ] Create Tile Map
-- [ ] Basic Level w/ Collisions
 
 
 ## # Complete
