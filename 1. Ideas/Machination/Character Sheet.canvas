@@ -13,7 +13,16 @@
 		{"id":"a607ead21e61c0ec","type":"text","text":"**Occupation**\n\n**Personality**\n\n**Workplace**\n\n**Age**\n\n**Appearance**","x":140,"y":-680,"width":400,"height":400},
 		{"id":"59c4f3659ce9d2f2","type":"text","text":"**Occupation**\n\n**Personality**\n\n**Workplace**\n\n**Age**\n\n**Appearance**","x":140,"y":-1880,"width":400,"height":400},
 		{"id":"4842a07e0288b496","type":"text","text":"**Occupation**\n\n**Personality**\n\n**Workplace**\n\n**Age**\n\n**Appearance**","x":140,"y":-2280,"width":400,"height":400},
-		{"id":"15df49c4d494f47e","type":"text","text":"**Occupation**\n\n**Personality**\n\n**Workplace**\n\n**Age**\n\n**Appearance**","x":140,"y":-2680,"width":400,"height":400}
+		{"id":"15df49c4d494f47e","type":"text","text":"**Occupation**\n\n**Personality**\n\n**Workplace**\n\n**Age**\n\n**Appearance**","x":140,"y":-2680,"width":400,"height":400},
+		{"id":"a05c32ed1eb70325","x":-660,"y":-1880,"width":400,"height":400,"type":"file","file":"_iii. MEDIA/00006-3913605743.png"},
+		{"id":"15330fd4341f33b5","x":-1520,"y":-2480,"width":400,"height":400,"type":"file","file":"_iii. MEDIA/00054-459621052.png"},
+		{"id":"617ced23f37c791e","x":-702,"y":-2340,"width":400,"height":400,"type":"file","file":"_iii. MEDIA/00061-11112.png"},
+		{"id":"25a1303ec01a4330","x":-1270,"y":-1801,"width":400,"height":400,"type":"file","file":"_iii. MEDIA/00052-2046049994.png"},
+		{"id":"38d5bd4c5fe6a85b","x":540,"y":-1080,"width":400,"height":400,"type":"file","file":"_iii. MEDIA/00077-1412158757.png"},
+		{"id":"03c6c898363e9615","x":540,"y":-280,"width":400,"height":400,"type":"file","file":"_iii. MEDIA/00079-1660312470.png"},
+		{"id":"c01b8b37ffcf7628","x":540,"y":-1880,"width":400,"height":400,"type":"file","file":"_iii. MEDIA/00087-452896420.png"},
+		{"id":"65288ff928c2c2db","x":540,"y":-680,"width":400,"height":400,"type":"file","file":"_iii. MEDIA/00086-3512037986.png"},
+		{"id":"8a453857e0301abc","x":940,"y":-680,"width":400,"height":400,"type":"file","file":"_iii. MEDIA/00085-3512037985.png"}
 	],
 	"edges":[]
 }
