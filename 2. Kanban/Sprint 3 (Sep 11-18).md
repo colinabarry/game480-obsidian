@@ -6,12 +6,10 @@ kanban-plugin: basic
 
 ## # Sprint tasks<br>###### Sprint goals: Get more familiar with Unity
 
-- [ ] 2D Sprites of Houses/Church/Sheep-pen/Garden/Tailor/Blacksmith
 
 
 ## # Austin
 
-- [ ] Create Village Tilemap
 
 
 ## # Cameron
@@ -21,10 +19,12 @@ kanban-plugin: basic
 
 ## # Colin
 
+- [ ] 2D Sprites of Houses/Church/Sheep-pen/Garden/Tailor/Blacksmith
 
 
 ## # To Review
 
+- [ ] Create Village Tilemap
 
 
 ## # Complete
