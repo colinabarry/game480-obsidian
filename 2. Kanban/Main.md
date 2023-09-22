@@ -42,7 +42,7 @@ kanban-plugin: basic
 - [ ] [[Settings menu]]
 - [ ] Win state
 - [ ] Fail state
-- [ ] Save/load
+- [ ] [[Save and load]]
 
 
 
