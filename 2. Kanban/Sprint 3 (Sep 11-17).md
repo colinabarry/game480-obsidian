@@ -19,12 +19,18 @@ kanban-plugin: basic
 
 ## # Colin
 
-- [ ] 2D Sprites of Houses/Church/Sheep-pen/Garden/Tailor/Blacksmith
+- [ ] House sprites
+- [ ] Church sprite
+- [ ] Sheep pen sprite
+- [ ] Garden sprite
+- [ ] Tailor's sprite
+- [ ] Blacksmith's smithy sprite
 
 
 ## # To Review
 
 - [ ] Create Village Tilemap
+- [ ] Basic pick up items
 
 
 ## # Complete
@@ -32,7 +38,11 @@ kanban-plugin: basic
 **Complete**
 
 
+***
 
+## Archive
+
+- [ ] 2D Sprites of Houses / Church / Sheep-pen / Garden / Tailor / Blacksmith
 
 %% kanban:settings
 ```
