@@ -1,3 +1,3 @@
 ## Sub-tasks
-- [ ] Move with WASD
+- [x] Move with WASD
 - [ ] Sprint with Shift?

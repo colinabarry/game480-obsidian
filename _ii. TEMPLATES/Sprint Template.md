@@ -33,6 +33,6 @@ kanban-plugin: basic
 
 %% kanban:settings
 ```
-{"kanban-plugin":"basic"}
+{"kanban-plugin":"basic","hide-tags-display":false,"hide-tags-in-title":true,"show-checkboxes":true}
 ```
 %%

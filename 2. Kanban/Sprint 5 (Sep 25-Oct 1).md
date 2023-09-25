@@ -18,6 +18,8 @@ kanban-plugin: basic
 ## # Cameron
 
 - [ ] Write more detailed character sheets for the villagers and characters within the story. #cameron
+- [ ] Axe implementation curve func  #cameron
+- [ ] Axe UI #cameron
 - [ ] Polish and build the second demo for game draft 2 assignment. #cameron
 
 
@@ -26,6 +28,8 @@ kanban-plugin: basic
 - [ ] Write more Quests for future #colin
 - [ ] Implement a quest system that serves as a foundation to find machine resources. #colin
 - [ ] Polish and build the second demo for game draft 2 assignment. #colin
+- [ ] Design and implement UI for resource amounts and quest item(s) #colin #missed
+- [ ] Implement structure-building system that utilizes the resource system #colin #missed
 
 
 ## # To Review

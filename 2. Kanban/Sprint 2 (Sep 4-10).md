@@ -10,36 +10,36 @@ kanban-plugin: basic
 
 ## # Austin
 
-- [ ] Level Transitions
-- [ ] Tilemap
-- [ ] Player Collisions
 
 
 ## # Cameron
 
-- [ ] Make a micro prototype of a single feature (Cameron)
 
 
 ## # Colin
 
-- [ ] Make a micro prototype of a single feature (Colin)
 
 
 ## # To Review
 
-- [ ] Create Tile Map
-- [ ] Basic Level w/ Collisions
 
 
 ## # Complete
 
 **Complete**
+- [x] Tilemap #austin
+- [x] Player Collisions #austin
+- [x] Level Transitions #austin
+- [x] Make a micro prototype of a single feature (Cameron) #all
+- [x] Make a micro prototype of a single feature (Colin) #all
+- [x] Basic Level w/ Collisions #austin
+- [x] Create Tile Map #austin
 
 
 
 
 %% kanban:settings
 ```
-{"kanban-plugin":"basic"}
+{"kanban-plugin":"basic","hide-tags-in-title":true,"show-checkboxes":true}
 ```
 %%

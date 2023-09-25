@@ -14,28 +14,28 @@ kanban-plugin: basic
 
 ## # Cameron
 
-- [ ] Create Wood Resources
 
 
 ## # Colin
 
-- [ ] House sprites
-- [ ] Church sprite
-- [ ] Sheep pen sprite
-- [ ] Garden sprite
-- [ ] Tailor's sprite
-- [ ] Blacksmith's smithy sprite
 
 
 ## # To Review
 
-- [ ] Create Village Tilemap
-- [ ] Basic pick up items
 
 
 ## # Complete
 
 **Complete**
+- [x] Create Wood Resources #cameron
+- [x] Blacksmith's smithy sprite #colin
+- [x] Tailor's sprite #colin
+- [x] Garden sprite #colin
+- [x] Sheep pen sprite #colin
+- [x] Church sprite #colin
+- [x] House sprites #colin
+- [x] Create Village Tilemap #austin
+- [x] Basic pick up items #colin
 
 
 ***
@@ -46,6 +46,6 @@ kanban-plugin: basic
 
 %% kanban:settings
 ```
-{"kanban-plugin":"basic"}
+{"kanban-plugin":"basic","hide-tags-in-title":true,"show-checkboxes":true}
 ```
 %%

@@ -49,6 +49,6 @@ kanban-plugin: basic
 
 %% kanban:settings
 ```
-{"kanban-plugin":"basic","new-note-folder":"1. Ideas/Machination/Features","hide-date-in-title":true,"hide-tags-in-title":true,"new-note-template":"_ii. TEMPLATES/Kanban Task Template.md"}
+{"kanban-plugin":"basic","new-note-folder":"1. Ideas/Machination/Features","hide-date-in-title":true,"hide-tags-in-title":true,"new-note-template":"_ii. TEMPLATES/Kanban Task Template.md","show-checkboxes":true}
 ```
 %%

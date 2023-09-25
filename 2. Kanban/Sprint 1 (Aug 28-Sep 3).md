@@ -6,8 +6,6 @@ kanban-plugin: basic
 
 ## # Sprint tasks<br>###### Sprint goals: finalize the game idea and complete the design document
 
-- [ ] Create game design document for finalized idea
-- [ ] Target Audience
 
 
 ## # Austin
@@ -24,32 +22,34 @@ kanban-plugin: basic
 
 ## # To Review
 
-- [ ] Story
 
 
 ## # Complete
 
 **Complete**
-- [x] Characters
-- [x] Core Gameplay
-- [x] Core Gameplay Mechanics
-- [x] Finalize idea as a group
-- [x] Flesh out vision for "Machination" idea (Austin)
-- [x] Flesh out vision for "Machination" idea (Cameron)
-- [x] Flesh out vision for "Machination" idea (Colin)
-- [x] Game Concept
-- [x] Game Description
-- [x] Game Title (ez)
-- [x] Ideal Player Profile
-- [x] Target Audience
-- [x] Try Unity (Cameron)
-- [x] Visual Style
+- [x] Story #cameron
+- [x] Target Audience #cameron
+- [x] Create game design document for finalized idea #all
+- [x] Characters #cameron
+- [x] Core Gameplay #austin
+- [x] Core Gameplay Mechanics #colin
+- [x] Finalize idea as a group #all
+- [x] Flesh out vision for "Machination" idea #all
+- [x] Flesh out vision for "Machination" idea #all
+- [x] Flesh out vision for "Machination" idea #all
+- [x] Game Concept #austin
+- [x] Game Description #colin
+- [x] Game Title (ez) #austin
+- [x] Ideal Player Profile #cameron
+- [x] Target Audience #cameron
+- [x] Try Unity #cameron
+- [x] Visual Style #colin
 
 
 
 
 %% kanban:settings
 ```
-{"kanban-plugin":"basic"}
+{"kanban-plugin":"basic","hide-tags-in-title":true,"show-checkboxes":true,"tag-colors":[]}
 ```
 %%
