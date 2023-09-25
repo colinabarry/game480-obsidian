@@ -15,7 +15,6 @@ kanban-plugin: basic
 
 ## # Cameron
 
-- [ ] Create game poster (LOOK AT RUBRIC)
 - [ ] Work on axe implementation
 
 
@@ -32,6 +31,7 @@ kanban-plugin: basic
 ## # Complete
 
 **Complete**
+- [x] Create game poster (LOOK AT RUBRIC)
 
 
 
