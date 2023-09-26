@@ -18,7 +18,6 @@ kanban-plugin: basic
 ## # Cameron
 
 - [ ] Write more detailed character sheets for the villagers and characters within the story. #cameron
-- [ ] Axe implementation curve func  #cameron
 - [ ] Axe UI #cameron
 - [ ] Polish and build the second demo for game draft 2 assignment. #cameron
 
@@ -34,6 +33,7 @@ kanban-plugin: basic
 
 ## # To Review
 
+- [ ] Axe implementation curve func  #cameron
 
 
 ## # Complete
