@@ -1,6 +1,6 @@
 {
 	"nodes":[
-		{"id":"6b0233429d93838d","type":"text","text":"[[Quest 1 - Beginnings]]","x":-300,"y":-60,"width":250,"height":60},
+		{"id":"6b0233429d93838d","type":"text","text":"[[Quest 1]]","x":-300,"y":-60,"width":250,"height":60},
 		{"id":"a3982ad1d182f3a1","type":"text","text":"Quest 2","x":-300,"y":40,"width":250,"height":60},
 		{"id":"ce1ea14473c03a82","type":"text","text":"Quest 3","x":-300,"y":140,"width":250,"height":60},
 		{"id":"f1f3aac02b399ddf","type":"text","text":"Quest 4","x":-300,"y":240,"width":250,"height":60},
@@ -9,7 +9,10 @@
 		{"id":"ff02923235eac1e7","type":"text","text":"Quest 7","x":-300,"y":540,"width":250,"height":60},
 		{"id":"3ef0dfce374fc320","type":"text","text":"Quest 8","x":-300,"y":640,"width":250,"height":60},
 		{"id":"3e787aaebfe03caf","type":"text","text":"Quest 9","x":-300,"y":740,"width":250,"height":60},
-		{"id":"a939c6ea6dbcddd8","type":"text","text":"Quest 10","x":-300,"y":840,"width":250,"height":60}
+		{"id":"a939c6ea6dbcddd8","type":"text","text":"Quest 10","x":-300,"y":840,"width":250,"height":60},
+		{"id":"6d3329f48255ba9e","type":"text","text":"","x":104,"y":-59,"width":250,"height":60}
 	],
-	"edges":[]
+	"edges":[
+		{"id":"e21ca299d4c86103","fromNode":"6b0233429d93838d","fromSide":"right","toNode":"6d3329f48255ba9e","toSide":"left"}
+	]
 }
