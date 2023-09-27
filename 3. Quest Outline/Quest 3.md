@@ -10,10 +10,8 @@ Quests outlines must describe the following:
 	the
 ## Why is the player doing this? 
 	the
-
 ## Where is the quest? 
 	the
-
 ## What triggers quest completion? 
 	the
 
