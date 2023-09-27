@@ -1,4 +1,4 @@
-
+[[Homework2]]
 
 This is an outline of all quests to be added in the game.
 Quests outlines must describe the following:

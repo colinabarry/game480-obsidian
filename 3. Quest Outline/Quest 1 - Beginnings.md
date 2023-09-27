@@ -1,4 +1,4 @@
-Beginning/tutorial quest to introduce the story and demonstrate game mechanics.
+[[Homework2]]Beginning/tutorial quest to introduce the story and demonstrate game mechanics.
 
 - What triggers the quest start? 
 	- The game is started
