@@ -10,9 +10,14 @@
 		{"id":"3ef0dfce374fc320","type":"text","text":"Quest 8","x":-300,"y":640,"width":250,"height":60},
 		{"id":"3e787aaebfe03caf","type":"text","text":"Quest 9","x":-300,"y":740,"width":250,"height":60},
 		{"id":"a939c6ea6dbcddd8","type":"text","text":"Quest 10","x":-300,"y":840,"width":250,"height":60},
-		{"id":"6d3329f48255ba9e","type":"text","text":"","x":104,"y":-59,"width":250,"height":60}
+		{"id":"fe1f21aff81ad71e","x":103,"y":41,"width":250,"height":60,"type":"text","text":""},
+		{"id":"6d3329f48255ba9e","type":"text","text":"read first letter from nobleman, meet all villagers, chop some trees, build first building","x":104,"y":-79,"width":356,"height":99},
+		{"id":"50b0f2b6da4cb0c3","x":104,"y":140,"width":250,"height":60,"type":"text","text":""},
+		{"id":"5a4f3df69486ed4e","x":103,"y":740,"width":250,"height":60,"type":"text","text":"complete the machine"},
+		{"id":"d195d1451ac805e5","type":"text","text":"deal with wifey","x":103,"y":840,"width":250,"height":60}
 	],
 	"edges":[
-		{"id":"e21ca299d4c86103","fromNode":"6b0233429d93838d","fromSide":"right","toNode":"6d3329f48255ba9e","toSide":"left"}
+		{"id":"e21ca299d4c86103","fromNode":"6b0233429d93838d","fromSide":"right","toNode":"6d3329f48255ba9e","toSide":"left"},
+		{"id":"01fd0744a485fdc9","fromNode":"a3982ad1d182f3a1","fromSide":"right","toNode":"fe1f21aff81ad71e","toSide":"left"}
 	]
 }
