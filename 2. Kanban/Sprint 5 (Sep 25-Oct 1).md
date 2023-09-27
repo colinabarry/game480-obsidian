@@ -11,7 +11,7 @@ kanban-plugin: basic
 ## # Austin
 
 - [ ] Write more Quests for future #austin
-- [ ] Implement basic villagers and dialogue. #austin
+- [ ] Design and implement UI for resource amounts and quest item(s) #colin #austin  #missed
 - [ ] Polish and build the second demo for game draft 2 assignment. #austin
 
 
@@ -28,12 +28,13 @@ kanban-plugin: basic
 - [ ] Write more Quests for future #colin
 - [ ] Implement a quest system that serves as a foundation to find machine resources. #colin
 - [ ] Polish and build the second demo for game draft 2 assignment. #colin
-- [ ] Design and implement UI for resource amounts and quest item(s) #colin #missed
+- [ ] Implement basic villagers and dialogue. #austin #colin
 - [ ] Implement structure-building system that utilizes the resource system #colin #missed
 
 
 ## # To Review
 
+- [ ] Marry resource collection to item drops #colin #missed
 
 
 ## # Complete
