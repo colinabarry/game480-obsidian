@@ -1,6 +1,6 @@
 ## Sub-tasks
 - [x] Tool-free (pick up items)
-- [ ] Tool (axe a tree, it drops items)
+- [x] Tool (axe a tree, it drops items)
 - [ ] Different tools for different resources
 
 ## Notes

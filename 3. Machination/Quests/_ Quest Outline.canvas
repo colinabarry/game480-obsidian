@@ -1,0 +1,31 @@
+{
+	"nodes":[
+		{"id":"6b0233429d93838d","type":"text","text":"[[Quest 1]]","x":-300,"y":-180,"width":250,"height":60},
+		{"id":"a3982ad1d182f3a1","type":"text","text":"Quest 2","x":-300,"y":40,"width":250,"height":60},
+		{"id":"ce1ea14473c03a82","type":"text","text":"Quest 3","x":-300,"y":140,"width":250,"height":60},
+		{"id":"f1f3aac02b399ddf","type":"text","text":"Quest 4","x":-300,"y":240,"width":250,"height":60},
+		{"id":"8825c42de84c5e20","type":"text","text":"Quest 5","x":-300,"y":340,"width":250,"height":60},
+		{"id":"897af9e938bd4284","type":"text","text":"Quest 6","x":-300,"y":440,"width":250,"height":60},
+		{"id":"ff02923235eac1e7","type":"text","text":"Quest 7","x":-300,"y":540,"width":250,"height":60},
+		{"id":"3ef0dfce374fc320","type":"text","text":"Quest 8","x":-300,"y":640,"width":250,"height":60},
+		{"id":"3e787aaebfe03caf","type":"text","text":"Quest 9","x":-300,"y":740,"width":250,"height":60},
+		{"id":"a939c6ea6dbcddd8","type":"text","text":"Quest 10","x":-300,"y":840,"width":250,"height":60},
+		{"id":"5a4f3df69486ed4e","type":"text","text":"complete the machine","x":103,"y":740,"width":250,"height":60},
+		{"id":"d195d1451ac805e5","type":"text","text":"deal with wifey","x":103,"y":840,"width":250,"height":60},
+		{"id":"50b0f2b6da4cb0c3","type":"text","text":"build a dam to help farmer and access boreal forest as a side effect","x":104,"y":220,"width":296,"height":100},
+		{"id":"bd6ebc303796ec67","type":"text","text":"gain access to deadlands","x":103,"y":540,"width":277,"height":60},
+		{"id":"22d4f18b25a623c0","type":"text","text":"read first letter","x":104,"y":-180,"width":250,"height":60},
+		{"id":"2b529d220fd6f216","type":"text","text":"chop some trees","x":529,"y":-147,"width":250,"height":60},
+		{"id":"84f4cbee3e6a5852","type":"text","text":"build first building (shed?)","x":880,"y":-147,"width":280,"height":60},
+		{"id":"a39be63cd2434f48","type":"text","text":"meet all villagers","x":529,"y":-210,"width":250,"height":60},
+		{"id":"fe1f21aff81ad71e","type":"text","text":"build proper houses for villagers (3)","x":103,"y":30,"width":251,"height":79}
+	],
+	"edges":[
+		{"id":"01fd0744a485fdc9","fromNode":"a3982ad1d182f3a1","fromSide":"right","toNode":"fe1f21aff81ad71e","toSide":"left"},
+		{"id":"287b40b849bf07cb","fromNode":"6b0233429d93838d","fromSide":"right","toNode":"22d4f18b25a623c0","toSide":"left"},
+		{"id":"c2897a344cc6a499","fromNode":"22d4f18b25a623c0","fromSide":"right","toNode":"a39be63cd2434f48","toSide":"left"},
+		{"id":"ba7757eef1e5fb8e","fromNode":"22d4f18b25a623c0","fromSide":"right","toNode":"2b529d220fd6f216","toSide":"left"},
+		{"id":"cf9fb2c981077b77","fromNode":"2b529d220fd6f216","fromSide":"right","toNode":"84f4cbee3e6a5852","toSide":"left"},
+		{"id":"ac1ffce118b4dae5","fromNode":"6b0233429d93838d","fromSide":"bottom","toNode":"a3982ad1d182f3a1","toSide":"top"}
+	]
+}

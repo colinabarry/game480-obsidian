@@ -1,8 +1,10 @@
 ---
+
 kanban-plugin: basic
+
 ---
 
-## # Sprint tasks<br>###### Sprint goals: \<goal>
+## # Sprint tasks<br>###### Sprint goals: Finish MVP, then WRITE AND DESIGN
 
 
 

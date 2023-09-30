@@ -1,6 +1,7 @@
 ## Sub-tasks
 - [ ] Dialogue portraits
     - [ ] Single expression
+	    - [ ] [[]]
     - [ ] Varied expressions
 - [ ] Character animations
 - [ ] Buildings

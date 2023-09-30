@@ -15,6 +15,7 @@ kanban-plugin: basic
 - [ ] [[Player movement]]
 - [ ] [[Structure building]]
 - [ ] [[Quests]]
+- [ ] [[GlobalStateManager]]
 
 
 ## # Nice to have<br>###### Time permitting: the game is better if it has these
@@ -25,6 +26,7 @@ kanban-plugin: basic
 - [ ] [[Custom sfx]]
 - [ ] [[Custom art]]
 - [ ] [[Day night cycle]]
+- [ ] [[Food]]
 
 
 ## # Pipe dreams<br>###### Not given up on, but...
@@ -49,6 +51,6 @@ kanban-plugin: basic
 
 %% kanban:settings
 ```
-{"kanban-plugin":"basic","new-note-folder":"1. Ideas/Machination/Features","hide-date-in-title":true,"hide-tags-in-title":true,"new-note-template":"_ii. TEMPLATES/Kanban Task Template.md","show-checkboxes":true}
+{"kanban-plugin":"basic","new-note-folder":"3. Machination/Tasks","hide-date-in-title":true,"hide-tags-in-title":true,"new-note-template":"_ii. TEMPLATES/Kanban Task Template.md","show-checkboxes":true}
 ```
 %%

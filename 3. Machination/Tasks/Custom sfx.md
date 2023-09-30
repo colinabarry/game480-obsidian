@@ -1,5 +1,5 @@
 ## Sub-tasks
-- [ ] Footsteps
+- [ ] Footsteps 
 - [ ] Tools
     - [ ] swing tool
     - [ ] hit wood
