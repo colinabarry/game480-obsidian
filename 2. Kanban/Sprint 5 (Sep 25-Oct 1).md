@@ -12,14 +12,10 @@ kanban-plugin: basic
 
 - [ ] Write more Quests for future #austin
 - [ ] Design and implement UI for resource amounts and quest item(s) #colin #austin  #missed
-- [ ] Polish and build the second demo for game draft 2 assignment. #all
 
 
 ## # Cameron
 
-- [ ] Write more detailed character sheets for the villagers and characters within the story. #cameron
-- [ ] Axe UI #cameron
-- [ ] Polish and build the second demo for game draft 2 assignment. #all
 
 
 ## # Colin
@@ -28,13 +24,16 @@ kanban-plugin: basic
 - [ ] Implement a quest system that serves as a foundation to find machine resources. #colin
 - [ ] Implement basic villagers and dialogue. #austin #colin
 - [ ] Implement structure-building system that utilizes the resource system #colin #missed
-- [ ] Polish and build the second demo for game draft 2 assignment. #all
 
 
 ## # To Review
 
 - [ ] Marry resource collection to item drops #colin #missed
 - [ ] Axe implementation curve func  #cameron
+- [ ] Axe UI #cameron
+- [ ] Polish and build the second demo for game draft 2 assignment. #all
+- [ ] Polish and build the second demo for game draft 2 assignment. #all
+- [ ] Polish and build the second demo for game draft 2 assignment. #all
 
 
 ## # Complete

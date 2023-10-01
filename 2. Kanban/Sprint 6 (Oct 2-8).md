@@ -14,6 +14,7 @@ kanban-plugin: basic
 
 ## # Cameron
 
+- [ ] Write more detailed character sheets for the villagers and characters within the story. #cameron
 
 
 ## # Colin
