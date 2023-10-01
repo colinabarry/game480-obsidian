@@ -31,14 +31,14 @@ kanban-plugin: basic
 - [ ] Marry resource collection to item drops #colin #missed
 - [ ] Axe implementation curve func  #cameron
 - [ ] Axe UI #cameron
-- [ ] Polish and build the second demo for game draft 2 assignment. #all
-- [ ] Polish and build the second demo for game draft 2 assignment. #all
-- [ ] Polish and build the second demo for game draft 2 assignment. #all
 
 
 ## # Complete
 
 **Complete**
+- [x] Polish and build the second demo for game draft 2 assignment. #all
+- [x] Polish and build the second demo for game draft 2 assignment. #all
+- [x] Polish and build the second demo for game draft 2 assignment. #all
 
 
 
