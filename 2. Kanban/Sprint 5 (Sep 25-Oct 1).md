@@ -23,7 +23,6 @@ kanban-plugin: basic
 - [ ] Write more Quests for future #colin
 - [ ] Implement a quest system that serves as a foundation to find machine resources. #colin
 - [ ] Implement basic villagers and dialogue. #austin #colin
-- [ ] Implement structure-building system that utilizes the resource system #colin #missed
 
 
 ## # To Review
@@ -31,6 +30,7 @@ kanban-plugin: basic
 - [ ] Marry resource collection to item drops #colin #missed
 - [ ] Axe implementation curve func  #cameron
 - [ ] Axe UI #cameron
+- [ ] Implement structure-building system that utilizes the resource system #colin #missed
 
 
 ## # Complete
