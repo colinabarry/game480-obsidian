@@ -30,8 +30,8 @@ kanban-plugin: basic
 ## # Colin
 
 - [ ] Write more [[Quests]] for future #colin #missed
-- [ ] Implement basic villagers and dialogue. #austin #colin
-- [ ] Implement a quest system that serves as a foundation to find machine resources. #colin
+- [ ] Implement basic villagers and dialogue. #austin #colin #missed
+- [ ] Implement a quest system that serves as a foundation to find machine resources. #colin #missed
 - [ ] Complete Game Design Document #all
 
 
