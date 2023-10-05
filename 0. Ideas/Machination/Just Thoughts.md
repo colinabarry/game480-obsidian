@@ -40,6 +40,6 @@ Standard resources are always available. There will always be trees in the fores
 Special resources have limited availability. Some may only appear in specific locations. Some may only appear at certain times of day. Some may only appear when it is time for the player to find them (according to The List) ^special-resources
 
 
-"The List" is a piece of parchment given to the player near the midpoint of Act 1. It is a component manifest of arcane materials, written by the nobleman, designed to make the machine function as intended. Receipt of The List introduces the mechanic of constructing the machine ^the-list
+~~"The List" is a piece of parchment given to the player near the midpoint of Act 1. It is a component manifest of arcane materials, written by the nobleman, designed to make the machine function as intended. Receipt of The List introduces the mechanic of constructing the machine ^the-list~~
 
 
