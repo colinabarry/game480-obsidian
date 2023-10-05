@@ -6,7 +6,7 @@
 | House large | 🪵x8 🪨x4      |                   |                                                                                    |
 | Tailor      | 🪵x7 🪨x2 🧲x1 |                   |                                                                                    |
 | Apothecary  | 🪵x6 🪨x2 🪟x2 |                   |                                                                                    |
-| Smithy      | 🪵x2 🪨x6 🧲x4 | mining ore        |                                                                                    |
+| Smithy      | 🪵x2 🪨x6      | mining ore        |                                                                                    |
 
 
 | Component | Ingredients | Unlocked By | Notes |
