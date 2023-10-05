@@ -14,7 +14,6 @@
 	- [ ] #🗝️ Chop trees 
 		- [ ] Build shed scaffold
 - [ ] **Stone** - structure
-	- [ ] 
 	- [ ] #🗝️ Mine some stone
 		- [ ] Build yourself a real house
 - [ ] **Iron** - mechanism
@@ -22,7 +21,9 @@
 		- [ ] Mine some ore
 			- [ ] Build a smithy
 - [ ] **Tree sapling**, seed? - new life
-	- [ ] #🗝️ Talk to abigail and figure out the right place to find the right one
+	- [ ] #🗝️ Talk to Abigail
+		- [ ] Find out a good place to get a sapling from
+			- [ ] Go get the sapling
 - [ ] **Runic tablet** - channeling power
 	- [ ] #🗝️ Find it on a mountaintop stashed away
 - [ ] **Gemstone** - storing energy
@@ -32,7 +33,9 @@
 - [ ] **Human blood** - 
 	- [ ] #🗝️ it's never explained where this comes from
 - [ ] **The dress**
-	- [ ] #🗝️ Have Esther make it custom for you after you build her her own tailor shop
+	- [ ] #🗝️ Talk to Esther about making a custom dress for your wife
+		- [ ] Build a tailor shop for her
+			- [ ] Bring her the materials and wait for it to be done
 
 ## Notes
 The game is split into 10 quests, each corresponding to a component of the machine that you must find or create. Each quest contains several tasks, some of which are optional, one of which leads to receiving the component. The task which leads to collecting a component will be labeled with the #🗝️ tag. 
