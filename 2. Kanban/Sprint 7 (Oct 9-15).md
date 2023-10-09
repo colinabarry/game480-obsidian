@@ -4,7 +4,7 @@ kanban-plugin: basic
 
 ---
 
-## # Sprint tasks<br>###### Sprint goals: 
+## # Sprint tasks<br>###### Sprint goals:
 
 
 
@@ -14,6 +14,8 @@ kanban-plugin: basic
 
 ## # Cameron
 
+- [ ] Write more detailed character sheets for the villagers and characters within the story. #cameron
+- [ ] Implement caves #cameron
 
 
 ## # Colin
