@@ -13,8 +13,6 @@ kanban-plugin: basic
 
 ## # Austin
 
-- [ ] Write more [[Quests]] for future #austin #missed
-- [ ] Create world level shape to outline the Village, Temperate Woods, Boreal Forest, and Deadlands. Details for these zones will be added later.
 
 
 ## # Cameron
@@ -23,9 +21,6 @@ kanban-plugin: basic
 
 ## # Colin
 
-- [ ] Write more [[Quests]] for future #colin #missed
-- [ ] Implement basic villagers and dialogue. #austin #colin #missed
-- [ ] Implement a quest system that serves as a foundation to find machine resources. #colin #missed
 
 
 ## # To Review
@@ -35,6 +30,8 @@ kanban-plugin: basic
 - [ ] Complete Game Design Document #all
 - [ ] Complete Game Design Document #all
 - [ ] Complete Game Design Document #all
+- [ ] Create world level shape to outline the Village, Temperate Woods, Boreal Forest, and Deadlands. Details for these zones will be added later.
+- [ ] Write more [[Quests]] for future #austin #missed
 
 
 ## # Complete

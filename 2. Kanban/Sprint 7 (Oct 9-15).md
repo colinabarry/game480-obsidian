@@ -10,6 +10,10 @@ kanban-plugin: basic
 
 ## # Austin
 
+- [ ] Create Main Menu
+- [ ] Create Pause Menu
+- [ ] Add basic pause
+- [ ] Create basic villager prefab
 
 
 ## # Cameron
@@ -17,10 +21,13 @@ kanban-plugin: basic
 - [ ] Write more detailed character sheets for the villagers and characters within the story. #cameron
 - [ ] Implement caves #cameron
 - [ ] Polish all resources #cameron
+- [ ] Fix dialogue system #austin #colin #cameron  #missed
 
 
 ## # Colin
 
+- [ ] Implement a quest system that serves as a foundation to find machine resources. #colin #missed
+- [ ] Write more [[Quests]] for future #colin #missed
 
 
 ## # To Review
