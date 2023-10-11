@@ -10,7 +10,6 @@ kanban-plugin: basic
 
 ## # Austin
 
-- [ ] Create Main Menu
 - [ ] Create Pause Menu
 - [ ] Add basic pause
 - [ ] Create basic villager prefab
@@ -32,6 +31,7 @@ kanban-plugin: basic
 
 ## # To Review
 
+- [x] Create Main Menu
 
 
 ## # Complete
