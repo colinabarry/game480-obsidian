@@ -12,7 +12,6 @@ kanban-plugin: basic
 
 - [ ] Create Pause Menu
 - [ ] Add basic pause
-- [ ] Create basic villager prefab
 
 
 ## # Cameron
@@ -32,6 +31,7 @@ kanban-plugin: basic
 
 - [x] Create Main Menu
 - [x] Polish all resources #cameron
+- [x] Create basic villager prefab #cameron
 
 
 ## # Complete
