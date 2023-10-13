@@ -4,4 +4,4 @@
     - [ ] sfx mute/volume
 - [ ] Mouse sensitivity
 - [ ] Controls (view)
-- [ ] Controls (modify)
+- [ ] Controls (modify) - may not be implemented
