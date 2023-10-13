@@ -12,14 +12,11 @@ kanban-plugin: basic
 
 - [ ] Create Pause Menu
 - [ ] Add basic pause
-- [ ] Create basic villager prefab
 
 
 ## # Cameron
 
-- [ ] Write more detailed character sheets for the villagers and characters within the story. #cameron
 - [ ] Implement caves #cameron
-- [ ] Polish all resources #cameron
 - [ ] Fix dialogue system #austin #colin #cameron  #missed
 
 
@@ -32,6 +29,8 @@ kanban-plugin: basic
 ## # To Review
 
 - [x] Create Main Menu
+- [x] Polish all resources #cameron
+- [x] Create basic villager prefab #cameron
 
 
 ## # Complete
