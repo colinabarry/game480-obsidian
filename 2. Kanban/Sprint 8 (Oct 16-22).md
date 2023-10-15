@@ -4,8 +4,9 @@ kanban-plugin: basic
 
 ---
 
-## # Sprint tasks<br>###### Sprint goals:
+## # Sprint tasks<br>###### Sprint goals: Reassess, catch up! (Halfway point)
 
+- [ ] Implement Quest 1, 2
 
 
 ## # Austin
@@ -19,6 +20,17 @@ kanban-plugin: basic
 
 ## # Colin
 
+- [ ] Finish designing quests #colin #missed
+- [ ] Tile map texture: Grass #colin
+- [ ] Tile map texture: Dirt #colin
+- [ ] Tile map texture: Water #colin
+- [ ] Tile map texture: Path #colin
+- [ ] Tile map texture: Road #colin
+- [ ] Resource texture: Deciduous tree #colin
+- [ ] Resource texture: Deciduous tree (autumn) #colin
+- [ ] Resource texture: Coniferous tree #colin
+- [ ] Resource texture: Stone #colin
+- [ ] Resource texture: Iron ore #colin
 
 
 ## # To Review

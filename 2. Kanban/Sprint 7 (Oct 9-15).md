@@ -28,9 +28,9 @@ kanban-plugin: basic
 ## # To Review
 
 - [ ] Implement a quest system that serves as a foundation to find machine resources. #colin #missed
-- [x] Create Main Menu
-- [x] Polish all resources #cameron
-- [x] Create basic villager prefab #cameron
+- [ ] Create Main Menu
+- [ ] Polish all resources #cameron
+- [ ] Create basic villager prefab #cameron
 
 
 ## # Complete

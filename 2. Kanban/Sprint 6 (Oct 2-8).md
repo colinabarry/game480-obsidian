@@ -6,9 +6,6 @@ kanban-plugin: basic
 
 ## # Sprint tasks<br>###### Sprint goals: Finish MVP, then WRITE AND DESIGN
 
-- [ ] Create additional tile map textures for mountains, rivers, and roads.
-- [ ] Write a design document that describes all days and quests that will progress the story.
-- [ ] Implement Quest 1, 2
 
 
 ## # Austin
