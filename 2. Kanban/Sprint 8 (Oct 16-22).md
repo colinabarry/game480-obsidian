@@ -31,6 +31,10 @@ kanban-plugin: basic
 - [ ] Resource texture: Coniferous tree #colin
 - [ ] Resource texture: Stone #colin
 - [ ] Resource texture: Iron ore #colin
+- [ ] Implement quest 1 #colin
+- [ ] Implement quest 2 #colin
+- [ ] Implement quest 3 #colin
+- [ ] Implement quest 4 #colin
 
 
 ## # To Review
