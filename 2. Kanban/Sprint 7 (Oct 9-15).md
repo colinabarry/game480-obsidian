@@ -22,7 +22,6 @@ kanban-plugin: basic
 
 ## # Colin
 
-- [ ] Write more [[Quests]] for future #colin #missed
 
 
 ## # To Review
