@@ -11,11 +11,13 @@ kanban-plugin: basic
 
 ## # Austin
 
+- [ ] Implement caves #austin
 
 
 ## # Cameron
 
 - [ ] Write more detailed character sheets for the villagers and characters within the story. #cameron
+- [ ] Fix dialogue system #austin #colin #cameron  #missed
 
 
 ## # Colin

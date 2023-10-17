@@ -26,9 +26,12 @@ Best wishes, <br>
 </i>
 </blockquote>
 
-## What is the objective of the quest?
-- [ ] Talk to the settlers who came with you. 
-- [ ] Cut down some trees to make space for building space. 
-- [ ] Mark a plot for the construction of your house. 
-## What triggers quest completion?
-- [ ] A building scaffold is placed on the plot they are pointed to.
+## What are the objectives of the quest?
+- [ ] Read the letter
+	- [ ] Talk to the settlers 
+		- [ ] Father Elijah
+		- [ ] Abel
+		- [ ] Abigail
+		- [ ] Levi
+	- [ ] Cut down some trees to make space for building space. 
+		- [ ] Mark a plot for the construction of your house. 

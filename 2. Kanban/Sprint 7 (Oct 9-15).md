@@ -10,14 +10,11 @@ kanban-plugin: basic
 
 ## # Austin
 
-- [ ] Create Pause Menu
-- [ ] Add basic pause
 
 
 ## # Cameron
 
-- [ ] Implement caves #cameron
-- [ ] Fix dialogue system #austin #colin #cameron  #missed
+
 
 
 ## # Colin
@@ -26,6 +23,8 @@ kanban-plugin: basic
 
 ## # To Review
 
+- [ ] Add basic pause
+- [ ] Create Pause Menu
 - [ ] Implement a quest system that serves as a foundation to find machine resources. #colin #missed
 - [ ] Create Main Menu
 - [ ] Polish all resources #cameron
