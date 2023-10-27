@@ -2,10 +2,7 @@
 	"nodes":[
 		{"id":"dfcb90dadf20a6c9","type":"group","x":120,"y":-1760,"width":620,"height":260,"label":"Color Key"},
 		{"id":"54421aadad876cd2","type":"group","x":-340,"y":2711,"width":300,"height":131,"label":"Horrible name"},
-		{"id":"98c8bdd105b763d3","type":"file","file":"3. Machination/Quests/Quest 9.md","x":-1360,"y":4628,"width":880,"height":400},
-		{"id":"445762d75cc3adfc","type":"file","file":"3. Machination/Quests/Quest 10.md","x":-1360,"y":5420,"width":880,"height":400},
-		{"id":"ed18f8cc3780e0a7","type":"file","file":"3. Machination/Quests/Quest 8.md","x":-1360,"y":3844,"width":880,"height":400},
-		{"id":"8825c42de84c5e20","type":"text","text":"## [[Quest 5]] - \"Blessings\"","x":-322,"y":1479,"width":250,"height":101,"color":"6"},
+		{"id":"8825c42de84c5e20","type":"text","text":"## [[Quest 5]] - \"Blessings\"","x":-322,"y":1479,"width":242,"height":101,"color":"6"},
 		{"id":"59b7de0b39d9d5aa","type":"text","text":"Choose a crop to plant","x":835,"y":1097,"width":250,"height":60},
 		{"id":"7bb3a3e04dbcd11b","type":"text","text":"Player gets Machete from Levi for cutting Bushes that block pathes in Temperate Forest","x":835,"y":711,"width":250,"height":176,"color":"5"},
 		{"id":"eaaf032a32eb19f6","type":"text","text":"Tell Abigail (Herbalist) about the Rose and give it to her","x":835,"y":887,"width":250,"height":108,"color":"5"},
@@ -41,7 +38,7 @@
 		{"id":"3645a5de8b6f364e","type":"text","text":"Find the Mines","x":512,"y":-733,"width":250,"height":60,"color":"5"},
 		{"id":"6d84efac32d251fe","type":"text","text":"Gather stone","x":851,"y":-733,"width":250,"height":60,"color":"5"},
 		{"id":"f4627d850609fcac","type":"text","text":"Start Blacksmiths House w/ Stone","x":1211,"y":-737,"width":250,"height":69,"color":"5"},
-		{"id":"a3982ad1d182f3a1","type":"text","text":"## [[Quest 2]] - \"Breaking Ground\"","x":-344,"y":-754,"width":295,"height":143,"color":"6"},
+		{"id":"a3982ad1d182f3a1","type":"text","text":"## [[Quest 2]] - \"Breaking Ground\"","x":-344,"y":-754,"width":295,"height":118,"color":"6"},
 		{"id":"01167db49ad3faa6","type":"text","text":"Gain access to Temperate Forest","x":160,"y":-742,"width":250,"height":78,"color":"5"},
 		{"id":"2b529d220fd6f216","type":"text","text":"chop some trees","x":516,"y":-1127,"width":250,"height":60,"color":"5"},
 		{"id":"6b0233429d93838d","type":"text","text":"## [[Quest 1]] - \"Introductions\"","x":-337,"y":-1203,"width":280,"height":96,"color":"6"},
@@ -88,7 +85,10 @@
 		{"id":"c10ab904c250efe1","type":"file","file":"3. Machination/Quests/Quest 7.md","x":-1360,"y":3188,"width":880,"height":400},
 		{"id":"2982fd6e494c2e88","type":"file","file":"3. Machination/Quests/Quest 6.md","x":-1360,"y":2571,"width":880,"height":400},
 		{"id":"76e0914528189fe5","type":"file","file":"3. Machination/Quests/Quest 5.md","x":-1360,"y":1340,"width":880,"height":400},
-		{"id":"a7ab54c476bef868","type":"text","text":"Hull: Harvest Oak Wood from Boreal Forest","x":487,"y":2085,"width":250,"height":101,"color":"5"}
+		{"id":"a7ab54c476bef868","type":"text","text":"Hull: Harvest Oak Wood from Boreal Forest","x":487,"y":2085,"width":250,"height":101,"color":"5"},
+		{"id":"ed18f8cc3780e0a7","type":"file","file":"3. Machination/Quests/Quest 8.md","x":-1360,"y":3844,"width":880,"height":400},
+		{"id":"98c8bdd105b763d3","type":"file","file":"3. Machination/Quests/Quest 9.md","x":-1360,"y":4628,"width":880,"height":400},
+		{"id":"445762d75cc3adfc","type":"file","file":"3. Machination/Quests/Quest 10.md","x":-1360,"y":5420,"width":880,"height":400}
 	],
 	"edges":[
 		{"id":"287b40b849bf07cb","fromNode":"6b0233429d93838d","fromSide":"right","toNode":"22d4f18b25a623c0","toSide":"left"},
