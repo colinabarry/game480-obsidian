@@ -1,7 +1,7 @@
 ## Sub-tasks
 - [ ] Structure placement
 - [ ] Structure picker
-- [ ] Structure ingredients
+- [x] Structure ingredients
 
 ## Notes
 - should the player have free reign to choose what they build and where?

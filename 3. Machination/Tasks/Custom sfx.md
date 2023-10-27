@@ -2,9 +2,9 @@
 - [ ] Footsteps 
 - [ ] Tools
     - [ ] swing tool
-    - [ ] hit wood
-    - [ ] hit stone
-    - [ ] hit metal
+    - [x] hit wood
+    - [x] hit stone
+    - [x] hit metal
 - [ ] Dialogue
 - [ ] Pick up item
 - [ ] GUI
@@ -25,17 +25,17 @@
              - [ ] dishes clanking
              - [ ] fire crackling
              - [ ] people talking 
-         - [ ] gentle wind
+         - [x] gentle wind
      - [ ] boreal forest
          - [ ] dulled wind
          - [ ] rustling
          - [ ] birds
          - [ ] snorting (elk)
      - [ ] temperate woods (similar to boreal but...)
-         - [ ] more/brighter sounding birds
+         - [x] more/brighter sounding birds
          - [ ] frogs
          - [ ] snorting (deer)
-         - [ ] less dulled wind
+         - [x] less dulled wind
      - [ ] deadlands
          - [ ] harsh wind
          - [ ] crow/raven calls

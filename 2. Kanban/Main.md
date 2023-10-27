@@ -10,9 +10,9 @@ kanban-plugin: basic
 
 ## # Need to have<br>###### MVP features: the game does not work with any single one of these missing
 
-- [ ] [[Resource gathering]]
+- [x] [[Resource gathering]]
 - [ ] [[Dialogue]]
-- [ ] [[Player movement]]
+- [x] [[Player movement]]
 - [ ] [[Structure building]]
 - [ ] [[Quests]]
 - [ ] [[GlobalStateManager]]
@@ -22,7 +22,6 @@ kanban-plugin: basic
 
 - [ ] Basic resource crafting
 - [ ] Intermediate resource crafting
-- [ ] [[Villager movement]]
 - [ ] [[Custom sfx]]
 - [ ] [[Custom art]]
 - [ ] [[Day night cycle]]
@@ -35,6 +34,7 @@ kanban-plugin: basic
 - [ ] User-defined keybinds
 - [ ] [[Custom music]]
 - [ ] [[Random generation]]
+- [ ] [[Villager movement]]
 
 
 ## # "Given"<br>###### These are just expected to be there for any game that exists, no matter the gameplay

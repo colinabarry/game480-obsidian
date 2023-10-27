@@ -1,7 +1,7 @@
 ## Sub-tasks
 - [x] Tool-free (pick up items)
 - [x] Tool (axe a tree, it drops items)
-- [ ] Different tools for different resources
+- [x] Different tools for different resources
 
 ## Notes
 - should the player have to carry items one at a time? 
