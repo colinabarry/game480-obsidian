@@ -6,7 +6,6 @@ kanban-plugin: basic
 
 ## # Sprint tasks<br>###### Sprint goals: \<goal>
 
-- [ ] Implement villager movement and basic schedules.
 - [ ] Create cave level to the Temperate Woods.
 - [ ] Implement Quest 5, 6
 - [ ] Menu sounds #colin
@@ -14,7 +13,6 @@ kanban-plugin: basic
 - [ ] Tool swing sound #colin
 - [ ] Item pickup sounds #colin
 - [ ] Building sounds #colin
-- [ ] Quest UI
 
 
 ## # Austin
@@ -23,6 +21,8 @@ kanban-plugin: basic
 
 ## # Cameron
 
+- [ ] Quest UI
+- [ ] Implement villager movement and basic schedules.
 
 
 ## # Colin
@@ -33,7 +33,6 @@ kanban-plugin: basic
 - [ ] Resource texture: Deciduous tree (autumn) #colin
 - [ ] Resource texture: Coniferous tree #colin
 - [ ] Resource texture: Stone #colin
-- [ ] Implement quest 1 #colin
 - [ ] Implement quest 2 #colin
 - [ ] Implement quest 3 #colin
 - [ ] Implement quest 4 #colin
@@ -41,6 +40,7 @@ kanban-plugin: basic
 
 ## # To Review
 
+- [ ] Implement quest 1 #colin
 
 
 ## # Complete
