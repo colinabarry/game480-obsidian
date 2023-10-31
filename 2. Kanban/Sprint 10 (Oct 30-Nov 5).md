@@ -15,17 +15,11 @@ kanban-plugin: basic
 - [ ] Menu sounds #colin
 - [ ] Footstep sounds #colin
 - [ ] Tool swing sound #colin
-- [ ] Item pickup sounds #colin
-- [ ] Building sounds #colin
-- [ ] Implement Boreal forest in game #austin
-- [ ] Put all areas together in world #austin
-- [ ] Add details to the Boreal Forest area, such as: trees, rocks, quest locations. #austin
 - [ ] Add details to the Temperate Forest area, such as: trees, rocks, quest locations. #austin
-- [ ] Improve quest UI #cameron
+- [ ] Item pickup sounds #colin
+- [ ] Add details to the Boreal Forest area, such as: trees, rocks, quest locations. #austin
+- [ ] Building sounds #colin
 - [ ] Finish art (pine, autumn, green trees, dense tree border) #colin
-- [ ] Implement character locations per quest #cameron
-- [ ] Implement “can interact” bool for characters #cameron
-- [ ] Implement basic “letter” UI #austin
 - [ ] ~~Create mine level to the Boreal Forest?? #austin ~~
 - [ ] Implement Quest 5
 - [ ] Implement Quest 6
@@ -36,27 +30,33 @@ kanban-plugin: basic
 ## # Austin
 
 - [ ] Hook up menus to game #austin
+- [ ] Implement basic “letter” UI #austin
 
 
 ## # Cameron
 
 - [ ] Implement villager movement and basic schedules.
+- [ ] Implement “can interact” bool for characters #cameron
+- [ ] Implement character locations per quest #cameron
 - [ ] Clean up villager prefab #cameron
+- [ ] Improve quest UI #cameron
 
 
 ## # Colin
 
-- [ ] Finish designing quests #colin #missed
+- [ ] Proper Structure implementation #colin
 - [ ] Implement quest 2 #colin
 - [ ] Implement quest 3 #colin
 - [ ] Implement quest 4 #colin
 - [ ] Make end-of-day system #colin
 - [ ] Implement "zones" #colin
-- [ ] Proper Structure implementation #colin
+- [ ] Finish designing quests #colin #missed
 
 
 ## # To Review
 
+- [ ] Implement Boreal forest in game #austin
+- [ ] Put all areas together in world #austin
 
 
 ## # Complete
