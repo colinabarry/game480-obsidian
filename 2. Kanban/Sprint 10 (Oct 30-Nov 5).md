@@ -45,11 +45,11 @@ kanban-plugin: basic
 ## # Colin
 
 - [ ] Proper Structure implementation #colin
+- [ ] Make end-of-day system #colin
+- [ ] Implement "zones" #colin
 - [ ] Implement quest 2 #colin
 - [ ] Implement quest 3 #colin
 - [ ] Implement quest 4 #colin
-- [ ] Make end-of-day system #colin
-- [ ] Implement "zones" #colin
 - [ ] Finish designing quests #colin #missed
 
 
