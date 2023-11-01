@@ -38,7 +38,6 @@ kanban-plugin: basic
 - [ ] Implement villager movement and basic schedules.
 - [ ] Implement “can interact” bool for characters #cameron
 - [ ] Implement character locations per quest #cameron
-- [ ] Clean up villager prefab #cameron
 - [ ] Improve quest UI #cameron
 
 
@@ -57,6 +56,7 @@ kanban-plugin: basic
 
 - [ ] Implement Boreal forest in game #austin
 - [ ] Put all areas together in world #austin
+- [ ] Clean up villager prefab #cameron
 
 
 ## # Complete
