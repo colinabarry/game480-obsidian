@@ -44,7 +44,7 @@ kanban-plugin: basic
 
 ## # Colin
 
-- [ ] Proper Structure implementation #colin
+- [ ] Proper [[Structure]] implementation #colin
 - [ ] Make end-of-day system #colin
 - [ ] Implement "zones" #colin
 - [ ] Implement quest 2 #colin
