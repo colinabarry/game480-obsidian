@@ -16,7 +16,6 @@ kanban-plugin: basic
 - [ ] Footstep sounds #colin
 - [ ] Tool swing sound #colin
 - [ ] Add details to the Temperate Forest area, such as: trees, rocks, quest locations. #austin
-- [ ] Item pickup sounds #colin
 - [ ] Add details to the Boreal Forest area, such as: trees, rocks, quest locations. #austin
 - [ ] Building sounds #colin
 - [ ] Finish art (pine, autumn, green trees, dense tree border) #colin
@@ -35,7 +34,7 @@ kanban-plugin: basic
 
 ## # Cameron
 
-- [ ] Implement villager movement and basic schedules.
+- [ ] Implement villager movement and basic schedules. #cameron
 - [ ] Implement “can interact” bool for characters #cameron
 - [ ] Implement character locations per quest #cameron
 - [ ] Improve quest UI #cameron
@@ -57,6 +56,7 @@ kanban-plugin: basic
 - [ ] Implement Boreal forest in game #austin
 - [ ] Put all areas together in world #austin
 - [ ] Clean up villager prefab #cameron
+- [ ] Item pickup sounds #colin
 
 
 ## # Complete
