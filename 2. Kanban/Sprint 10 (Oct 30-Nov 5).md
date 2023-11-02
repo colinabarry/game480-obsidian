@@ -28,21 +28,17 @@ kanban-plugin: basic
 
 ## # Austin
 
-- [ ] Hook up menus to game #austin
 - [ ] Implement basic “letter” UI #austin
 
 
 ## # Cameron
 
 - [ ] Implement villager movement and basic schedules. #cameron
-- [ ] Implement “can interact” bool for characters #cameron
 - [ ] Implement character locations per quest #cameron
-- [ ] Improve quest UI #cameron
 
 
 ## # Colin
 
-- [ ] Proper [[Structure]] implementation #colin
 - [ ] Implement "zones" #colin
 - [ ] Implement quest 2 #colin
 - [ ] Implement quest 3 #colin
@@ -52,11 +48,15 @@ kanban-plugin: basic
 
 ## # To Review
 
+- [ ] Hook up menus to game #austin
+- [ ] Implement “can interact” bool for characters #cameron
+- [ ] Proper [[Structure]] implementation #colin
 - [ ] Make end-of-day system #colin
 - [ ] Implement Boreal forest in game #austin
 - [ ] Put all areas together in world #austin
 - [ ] Clean up villager prefab #cameron
 - [ ] Item pickup sounds #colin
+- [ ] Improve quest UI #cameron
 
 
 ## # Complete

@@ -17,4 +17,3 @@ public class Structure {
 - Base prefab will contain the script, a sprite, and a collision shape
 - Variants will have these components set up correctly
 - StructureBuilder will have an array of prefabs populated from Resources.load()
-- 
