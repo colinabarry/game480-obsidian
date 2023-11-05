@@ -4,6 +4,8 @@
 	    - [ ] [[]]
     - [ ] Varied expressions
 - [ ] Character animations
+    - [ ] axe: swing back according to easing function, then strain to hold it in place, then drop the axe and wait a small moment before you can try again, for flow. End hold state is below optimum
+    - [ ] pickaxe: 
 - [ ] Buildings
     - [ ] P's house
     - [ ] Smithy
