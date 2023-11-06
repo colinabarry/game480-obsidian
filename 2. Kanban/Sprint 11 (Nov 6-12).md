@@ -1,5 +1,7 @@
 ---
+
 kanban-plugin: basic
+
 ---
 
 ## # Sprint tasks<br>###### Sprint goals: \<goal>
@@ -22,17 +24,22 @@ kanban-plugin: basic
 - [ ] Implement Quest 6
 - [ ] Implement Quest 7
 - [ ] Implement Quest 8
+- [ ] Settings menu.
+- [ ] Implement saving and loading
+- [ ] Implement Quest 9, 10
 
 
 ## # Austin
 
 - [ ] Implement basic “letter” UI #austin
+- [ ] Write dialogue for quest 1
 
 
 ## # Cameron
 
-- [ ] Implement villager movement and basic schedules. #cameron
+- [ ] Finish villager movement and basic schedules. #cameron
 - [ ] Implement character locations per quest #cameron
+- [ ] Create animations of: player walking, villager walking, trees falling, and water flowing. #cameron
 
 
 ## # Colin
