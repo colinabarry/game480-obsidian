@@ -39,8 +39,6 @@ kanban-plugin: basic
 
 ## # Colin
 
-- [ ] Implement "zones" #colin
-- [ ] Implement quest 2 #colin
 - [ ] Implement quest 3 #colin
 - [ ] Implement quest 4 #colin
 - [ ] Finish designing quests #colin #missed
@@ -49,6 +47,8 @@ kanban-plugin: basic
 ## # To Review
 
 - [ ] Hook up menus to game #austin
+- [ ] Implement "zones" #colin
+- [ ] Implement quest 2 #colin
 - [ ] Implement “can interact” bool for characters #cameron
 - [ ] Proper [[Structure]] implementation #colin
 - [ ] Make end-of-day system #colin
