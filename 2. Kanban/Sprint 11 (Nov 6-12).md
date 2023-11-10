@@ -38,7 +38,6 @@ kanban-plugin: basic
 ## # Cameron
 
 - [ ] Finish villager movement and basic schedules. #cameron
-- [ ] Implement character locations per quest #cameron
 - [ ] Create animations of: player walking, villager walking, trees falling, and water flowing. #cameron
 
 
@@ -51,6 +50,7 @@ kanban-plugin: basic
 
 ## # To Review
 
+- [ ] Implement character locations per quest #cameron
 
 
 ## # Complete
