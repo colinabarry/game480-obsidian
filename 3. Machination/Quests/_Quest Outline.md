@@ -23,8 +23,8 @@ Component: Stone.
 Wife:
 - finish house
 - build another house
-- build a shed
 	- meet the new arrival, Benjamin
+- build a shed
 
 Father Elijah:
 - clear a path to Temperate Forest

@@ -25,7 +25,6 @@ kanban-plugin: basic
 - [ ] [[Custom sfx]]
 - [ ] [[Custom art]]
 - [ ] [[Day night cycle]]
-- [ ] [[Food]]
 
 
 ## # Pipe dreams<br>###### Not given up on, but...
@@ -35,6 +34,7 @@ kanban-plugin: basic
 - [ ] [[Custom music]]
 - [ ] [[Random generation]]
 - [ ] [[Villager movement]]
+- [ ] [[Food]]
 
 
 ## # "Given"<br>###### These are just expected to be there for any game that exists, no matter the gameplay
