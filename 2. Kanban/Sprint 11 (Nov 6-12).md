@@ -25,7 +25,6 @@ kanban-plugin: basic
 - [ ] Implement Quest 7
 - [ ] Implement Quest 8
 - [ ] Settings menu.
-- [ ] Implement saving and loading
 - [ ] Implement Quest 9, 10
 
 
@@ -43,13 +42,14 @@ kanban-plugin: basic
 
 ## # Colin
 
-- [ ] Implement quest 3 #colin
-- [ ] Implement quest 4 #colin
-- [ ] Finish designing quests #colin #missed
+- [ ] make dense tree border
 
 
 ## # To Review
 
+- [ ] Finish designing quests #colin #missed
+- [ ] Implement quest 4 #colin
+- [ ] Implement quest 3 #colin
 - [ ] Implement character locations per quest #cameron
 
 
@@ -58,7 +58,11 @@ kanban-plugin: basic
 **Complete**
 
 
+***
 
+## Archive
+
+- [ ] Implement saving and loading
 
 %% kanban:settings
 ```

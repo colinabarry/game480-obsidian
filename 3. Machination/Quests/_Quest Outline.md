@@ -6,100 +6,100 @@ The following section describes the 10 quests that make up the game, with the qu
 Component: Wood.
 
 Nobleman:
-- talk to the other villagers
-	- Father Elijah
-	- Abel
-	- Levi
-- gather 4 wood
-	- build workbench
-		- place scaffold for house
-			- allocate needed ingredients
-		- gather more wood
-			- build machine frame
+- [ ] talk to the other villagers
+	- [ ] Father Elijah
+	- [ ] Abel
+	- [ ] Levi
+- [ ] gather 4 wood
+	- [ ] build workbench
+		- [ ] place scaffold for house
+			- [ ] allocate needed ingredients
+		- [ ] gather more wood
+			- [ ] build machine frame
 
 # 2.   Breaking Ground
 Component: Stone.
 
 Wife:
-- finish house
-- build another house
-	- meet the new arrival, Benjamin
-- build a shed
+- [ ] finish house
+- [ ] build another house
+	- [ ] meet the new arrival, Benjamin
+- [ ] build a shed
 
 Father Elijah:
-- clear a path to Temperate Forest
-	- find the cave
-		- gather 8 stone
-			- build a chapel
-		- gather more stone
-			- build machine base
+- [ ] clear a path to Temperate Forest
+	- [ ] find the cave
+		- [ ] gather 8 stone
+			- [ ] build a chapel
+		- [ ] gather more stone
+			- [ ] build machine base
 
 # 3.  St. John
 Component: Withered Rose. 
 
 Wife:
-- find St. John's Wort
-- build another house
-	- meet the new arrival, Abigail
-- assemble machine frame with base
+- [ ] find St. John's Wort
+- [ ] build another house
+	- [ ] meet the new arrival, Abigail
+- [ ] assemble machine frame with base
 
 Nobleman:
-- find "a symbol of wearied life"
-	- talk to Abigail about it
-		- build an apothecary
-			- drop off the flower with her
-- (optional) ask villagers about the meaning of this
-	- Father becomes suspicious and shuts the door on you
-	- Abel 
-	- Abigail
+- [ ] find "a symbol of wearied life"
+	- [ ] talk to Abigail about it
+		- [ ] build an apothecary
+			- [ ] drop off the flower with her
+- [ ] (optional) ask villagers about the meaning of this
+	- [ ] Father becomes suspicious and shuts the door on you
+	- [ ] Abel 
+	- [ ] Abigail
 
-# 4.  Growth?
+# 4.  Silence
 Component: Iron Gears.
 
 Nobleman:
-- build another house
-	- meet the new arrival, Gedian
-		- build a dam
-- get iron gears for the machine
-	- add gears to machine
+- [ ] build another house
+	- [ ] meet the new arrival, Gedian
+		- [ ] build a dam
+- [ ] get iron gears for the machine
+	- [ ] add gears to machine
 
 Benjamin:
-- gather iron ore
-	- build a smithy
-		- gather coal
-			- gather more iron ore
-				- give to Benjamin to forge gears with
+- [ ] gather iron ore
+	- [ ] build a smithy
+		- [ ] gather coal
+			- [ ] gather more iron ore
+				- [ ] give to Benjamin to forge gears with
 
 Abigail: 
-- (optional) check on her
-	- no response from house, lights off, locked
-	- no response from apothecary, lights on, locked
+- [ ] (optional) check on her
+	- [ ] no response from house, lights off, locked
+	- [ ] no response from apothecary, lights on, locked
 
 # 5.  X Marks the Spot
 Component: Runed Silver Star.
 
 Nobleman:
-- find an "ancient inscription" for the machine
+- [ ] find an "ancient inscription" for the machine
 
 Abel:
-- worried about Abigail, she didn't bring a salve to him yet and isn't responding
-	- break open apothecary door and find Abigail unconscious
-		- Abel surreptitiously takes her in and revives her
-			- the next day, she hands P a strange-looking hand-drawn map
-				- follow it to a mostly buried engraved silver star
+- [ ] worried about Abigail, she didn't bring a salve to him yet and isn't responding
+	- [ ] break open apothecary door and find Abigail unconscious
+		- [ ] Abel surreptitiously takes her in and revives her
+			- [ ] the next day, she hands P a strange-looking hand-drawn map
+				- [ ] follow it to a mostly buried engraved silver star
 
 # 6.  Black as Night
 Component: Raven’s Claw.
 
 Nobleman:
-- find a "dark blade of nature" for the machine
-	- (optional) ask villagers about this
-		- 
+- [ ] find a "dark blade of nature" for the machine
+	- [ ] (optional) ask villagers about this
+		- [ ] 
 
 Gedian:
-- thanks the player for the dam, its work is done
-	- enter the boreal forest
-		- find the clearing with the bramble bush
+- [ ] thanks the player for the dam, its work is done
+	- [ ] enter the boreal forest
+		- [ ] find the clearing with the bramble bush
 
 
 
@@ -108,7 +108,7 @@ The player receives another letter from the Nobleman . The dam finishes lowering
 # 7.  Resting Place
 Component: Disrespected Souls.
 
-The player receives a letter from the nobleman, tasking them with collecting “disrespected souls” for the machine. They talk to Father Elijah about this, who is suspicious of the player’s morality. Father Elijah tells them to pray to God, go to the destroyed village in the Boreal Forest and pay respects to those who lived there and give them a proper Christian burial - but under no circumstances remove any remains from the site. The player does so anyway in the form of charred bone fragments, then pulverizes them and rubs the powder into the runic star and wood of the machine.
+The player receives a letter from the nobleman, tasking them with collecting “disrespected souls” for the machine. They talk to Father Elijah about this, who is suspicious of the player’s morality. Father Elijah tells them to pray to God, go to the destroyed village in the Boreal Forest and pay respects to those who lived there and give them a proper Christian burial - [ ] but under no circumstances remove any remains from the site. The player does so anyway in the form of charred bone fragments, then pulverizes them and rubs the powder into the runic star and wood of the machine.
 
 # 8.   
 Component: Frog Mucus.
@@ -121,6 +121,6 @@ Component: 
 The player finds the last component and adds it to the machine, finally completing it. They retrieve the completed dress from Esther and return home. The player talks to their wife, and it is revealed to them that the wife has always been dead. They find that they have been talking to a skeleton the entire game. They “talk” with their wife one last time, then go to bed leaving the player dreading what the machine will do tomorrow.
 
 # 10.   
-Component: None - the machine is completed.
+Component: None - [ ] the machine is completed.
 
 The machine is turned on and the wife is revived as a demonic monster. The wife wants to kill the villagers and burn everything down. The player has the choice to join their wife and kill the others in her defense, or to kill their own wife and save the village.
